@@ -1,0 +1,29 @@
+{{FrontSide}}
+
+<hr id=answer>
+
+{{#Signe (vidéo)}}
+  {{Signe (vidéo)}}
+  <p class="small">{{Signe (description)}}</p>
+  {{#Lexique FSS}}
+    <p class="small">
+      <a href="{{Lexique FSS}}">Lexique FSS</a>
+    </p>
+  {{/Lexique FSS}}
+  {{#Elix}}
+    <p class="small">
+      <a href="{{Elix}}">LeDicoElix</a>
+    </p>
+  {{/Elix}}
+{{/Signe (vidéo)}}
+
+{{^Signe (vidéo)}}
+  <p>{{Signe (description)}}</p>
+  {{#Lexique FSS}}
+    <p><a href="{{Lexique FSS}}">Lexique FSS</a></p>
+  {{/Lexique FSS}}
+  {{#Elix}}
+    <p><a href="{{Elix}}">LeDicoElix</a></p>
+  {{/Elix}}
+{{/Signe (vidéo)}}
+
