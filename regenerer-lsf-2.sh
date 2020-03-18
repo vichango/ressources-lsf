@@ -8,7 +8,7 @@ fi
 grep ",LSF II," < "$1" > LSF-2.csv
 
 sed '1i\
-fr_mot,fr_desc,tags,lsf_desc,fss,elix,level,added,has_lsf_video
+fr_mot,fr_desc,tags,has_lsf_video,lsf_desc,fss,elix,level,added
 ' LSF-2.csv > LSF-2-header.csv
 
 mlr --csv \
