@@ -4,7 +4,6 @@
 80,,,,,,chiffre mathématique
 100,,,,,,chiffre mathématique
 6ème,,,,,,mathématique
-à pied,,,,,,formule
 abeille,,,,,,animal
 abricot,,,,,,nature nourriture
 accompagner,,,,,,verbe verbe-dir
@@ -14,7 +13,6 @@ acteur - actrice,,,,,,profession
 admirer,,,,,,verbe
 adorer,,,,,,verbe
 agneau,,,,,,animal
-aïe!,,,,,,interjection
 aimer,,,,,,verbe verbe-aff-nég
 Allemagne,,,,,,lieu pays
 Allemand,,,,,,langue
@@ -29,8 +27,8 @@ ananas,,[sound:ananas.mp4],,,,nature nourriture
 Android,,,,,,technologie
 ange,,,,,,
 Anglais,,,,,,langue
-année,,,,,,
 anniversaire,,,,,,
+année,,,,,,
 août,,,,,,
 apercevoir,,,,,,verbe verbe-dir
 appareil auditif,,,,,,outil
@@ -43,13 +41,12 @@ après-midi,,,,,,
 araignée,,,,,,animal
 arbre,,,,,,nature
 arc-en-ciel,,,,,,nature
-arrêter (cesser),"Cesser d'agir, de faire quelque chose.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/arreter-1/,,verbe
+arriver,,,,,,verbe
 arrière grand-mère,,,,,,famille
 arrière grand-père,,,,,,famille
-arriver,,,,,,verbe
+arrêter (cesser),"Cesser d'agir, de faire quelque chose.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/arreter-1/,,verbe
 artère,,,,,,pas-trouvé
 Ascension,,,,,,activité événement
-âtre,,,,,,
 attendre,,,,,,verbe
 au total,,,,,,formule
 aujourd'hui,,,,,,
@@ -71,6 +68,7 @@ avoir faim,,,,,,verbe
 avoir mal,,,,,,médecine
 avoir raison,,,,,,formule verbe
 avril,,,,,,
+aïe!,,,,,,interjection
 baleine,,,,,,animal
 banane,,,,,,nature nourriture
 bar,,,,,,lieu
@@ -82,18 +80,15 @@ beau - belle,,,,,,adjectif
 beau-père,,,,,,famille
 beaucoup,,,,,,adverbe
 beaux-parents,,,,,,famille
-bébé,,,,,,
 beige,,,,,,couleur
 Belgique,,,,,,lieu pays
 belle-mère,,,,,,famille
-bénévole,,,,,,adjectif
-bête,,,,,,adjectif
 beurre,,,,,,nourriture
 bientôt,,,,,,adverbe
-bière,,,,,,nourriture
 bijou,,,,,,
 biscuit,,,,,,nourriture
 bizarre,,,,,,adjectif
+bière,,,,,,nourriture
 blanc,,,,,,couleur
 bleu,,,,,,couleur
 bois,,,,,,bâtiment
@@ -112,8 +107,9 @@ brouillard,,,,,,nature
 bruit,,,,,,
 brun,,,,,,couleur
 bus,,,,,,outil transport
-ça,,,,,,
-ça va,,,,,,formule
+bébé,,,,,,
+bénévole,,,,,,adjectif
+bête,,,,,,adjectif
 cadeau,,,,,,
 café,,,,,,nourriture
 calendrier,,,,,,
@@ -143,7 +139,6 @@ chenille,,,,,,animal
 chercher,,,,,,verbe
 cheval,,,,,,animal
 cheveux,,,,,,
-chèvre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chevre/,,animal
 chez,,,,,,préposition
 chien,,[sound:chien.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chien/,,animal
 Chili,,,,,,lieu pays
@@ -152,21 +147,21 @@ chocolat,,,,,,nourriture
 choisir,,,,,,verbe
 chose,,,,,,
 chou,,,,,,nature nourriture
+chèvre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chevre/,,animal
 cinéma,,,,,,lieu
 citrouille,,,,,,nourriture
 clair,,,,,,adjectif
-clémentine,,,,,,nature nourriture
 clin d'œil,,,,,,formule
+clémentine,,,,,,nature nourriture
 coccinelle,,,,,,animal
 cochon,,,,,,animal
-cœur,,,,,,
-comédien - comedienne,,,,,,profession
 commander,,,,,,verbe
 comme,,,,,,
 commencer,,,,,,verbe
 comment,,,,,,adverbe
 compliqué,,,,,,adjectif
 comprendre,,,,,,verbe verbe-aff-nég
+comédien - comedienne,,,,,,profession
 congé,,,,,,
 connaître,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/connaitre/,,verbe verbe-aff-nég
 construire,,,,,,verbe
@@ -189,36 +184,26 @@ couteau,,,,,,outil
 couvert,En parlant de la météo.,,,,,
 crabe,,,,,,animal
 crayon,,,,,,outil
-crèche,,,,,,lieu service
-crème,,,,,,nourriture
 critiquer,,,,,,verbe verbe-dir
 Croatie,,,,,,lieu pays
 crocodile,,,,,,animal
 croire,,,,,,verbe
+crèche,,,,,,lieu service
+crème,,,,,,nourriture
 culture,,,,,,
 curieux - curieuse,,,,,,adjectif
 cygne,,,,,,animal
+cœur,,,,,,
 dactylologie,,,,,,communication
 danser,,,,,,verbe
 de rien,,,,,,formule
-début,Par exemple «le début de la course»,,,,,pas-trouvé
-débutant-e,,,,,,adjectif
-décembre,,,,,,
-décor,,,,,,
-déçu-e,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/decu-decue/,,adjectif sentiment
 degré,,,,,,
 dehors,,,,,,adverbe
-déjà,,,,,,adverbe
-déjà (fini),,,,,,
-déjà (surprise),,,,,,
-délicieux - délicieuse,,,,,,adjectif
 demain,,,,,,
 demander,,,,,,verbe verbe-dir
 demi-frère,,,,,,famille
 demi-sœur,,,,,,famille
 dent,,,,,,
-déprimé-e,,,,,,adjectif sentiment
-déprimer,,,,,,verbe
 depuis,,,,,,
 dessiner,,,,,,verbe
 devenir,,,,,,verbe
@@ -233,19 +218,21 @@ dos - verso,,,,,,
 doucement - lentement,,,,,,adverbe
 drôle,,,,,,adjectif
 dur,,,,,,adjectif
-échelle,,,,,,outil
-éclair,,,,,,
-école,,,,,,lieu
-écouter,,,,,,verbe
-écureuil,,,,,,animal
-égoïste,,,,,,adjectif
+début,Par exemple «le début de la course»,,,,,pas-trouvé
+débutant-e,,,,,,adjectif
+décembre,,,,,,
+décor,,,,,,
+déjà,,,,,,adverbe
+déjà (fini),,,,,,
+déjà (surprise),,,,,,
+délicieux - délicieuse,,,,,,adjectif
+déprimer,,,,,,verbe
+déprimé-e,,,,,,adjectif sentiment
+déçu-e,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/decu-decue/,,adjectif sentiment
 Egypte,,,,,,lieu pays
-éléphant,,,,,,animal
-ému-e,,,,,,sentiment
 en face,,,,,,
 en forme,,,,,,adjectif
 encore,,,,,,adverbe
-énergie,,,,,,
 enfant,,,,,,famille
 enseigner,,,,,,verbe verbe-dir
 ensemble,,,,,,adverbe
@@ -255,25 +242,16 @@ entrailles,Lire la chance dans les entrailles des oiseaux,,,,,pas-trouvé
 entrer,,,,,,verbe
 envoyer (lettre),,,,,,verbe verbe-dir
 "envoyer (SMS, email)",,,,,,verbe verbe-dir
-épeler,,,,,,verbe
 escargot,,,,,,animal
 espion,,,,,,profession
 essence,,,,,,
 et cetera,,,,,,adverbe
-été,,,,,,
-être d'accord,,,,,,verbe verbe-aff-nég
-être en retard,,,,,,verbe
-être fini,,,,,,verbe verbe-aff-nég
-être là,,,,,,verbe verbe-aff-nég
-étudiant-e,,,,,,profession
-étudier,,,,,,verbe
 Europe,,,,,,
 exagérer,,,,,,verbe
 exemple,,,,,,
 expliquer,,,,,,verbe verbe-dir
 expression,,,Faire des guillemets dans l'air,,,
 fabriquer,,,,,,verbe
-fâché-e,,,,,,adjectif sentiment
 facile,,,,,,adjectif
 faire,,,,,,verbe
 faire attention,,,,,,verbe
@@ -286,40 +264,38 @@ fenêtre,,,,,,
 ferme,,,,,,bâtiment lieu
 fermer,,,,,,verbe
 festival,,,,,,
-fête,,,,,,
 feuille,,,,,,nature
-février,,,,,,
 fier - fière,,,,,,adjectif sentiment
 fier - fière (négatif),,,,,,adjectif
 fille,,,,,,famille
 filleul,,,,,,famille
 film,,,,,,
 fils,,,,,,famille
-flâner,,,,,,verbe
 fleur,,,,,,nature
+flâner,,,,,,verbe
 fois,,,,,,
-forêt,,,,,,nature
 fort-e,,,,,,adjectif
+forêt,,,,,,nature
 foule,,,,,,
 fraise,,,,,,nature nourriture
 framboise,,,,,,fruit nature nourriture
-Français,,,,,,langue
 France,,,,,,lieu pays
-frère,,,,,,famille
+Français,,,,,,langue
 Fribourg,,,,,,canton lieu
 frites,,,,,,nourriture
 froid-e,,,,,,adjectif
 fromage,,,,,,nourriture
 fruit,,,,,,nature
+frère,,,,,,famille
 futur,,,,,,
+fâché-e,,,,,,adjectif sentiment
+février,,,,,,
+fête,,,,,,
 Galette des Rois,,,,,,nourriture
 garçon,,,,,,
-gâteau,,,,,,nourriture
 geler,,,,,,verbe
-généreux - généreuse,,,,,,adjectif
-Genève,,,,,,canton lieu
 gentil - gentille,,,,,,adjectif
-Géométrie,,,,,,mathématique
+Genève,,,,,,canton lieu
 gilet,,,,,,habit
 girafe,,,,,,animal
 grammaire,,,,,,
@@ -327,17 +303,19 @@ grand-e,,,,,,adjectif
 grand-maman,,,,,,famille
 grand-papa,,,,,,famille
 grand-parent,,,,,,famille
-grève,,,,,,
 grincheux,,,,,,adjectif
 grippe,,,,,,médecine
 gris,,,,,,couleur
 gros - grosse,,,,,,adjectif
+grève,,,,,,
 guêpe,,,,,,animal
+gâteau,,,,,,nourriture
+généreux - généreuse,,,,,,adjectif
+Géométrie,,,,,,mathématique
 habitude,,,,,,
 Halloween,,,,,,activité
 Haute-Savoie,,,,,,département lieu
 herbe,,,,,,nature
-hérisson,,,,,,animal
 heureux - heureuse,,,,,,adjectif
 hier,,,,,,
 hippopotame,,[sound:hippopotame.mp4],,,,animal
@@ -348,8 +326,9 @@ homonyme,,,s'epeler + pareil + sens + différent,,,langue
 homosigne,,,se signe + pareil + sens + différent,,,langue
 Hongrie,,,,,,lieu pays
 honte,,,,,,
-hôpital,,,,,,lieu
 humide,,,,,,adjectif
+hérisson,,,,,,animal
+hôpital,,,,,,lieu
 ici,,,,,,adverbe
 il fait beau,,,,,,formule
 implant,,,,,,outil
@@ -358,8 +337,8 @@ incroyable,,,,,,adjectif
 Inde,,,,,,lieu pays
 infirmier-e,,,,,,profession
 informer,,,,,,verbe verbe-dir
-intéressant-e,,,,,,adjectif
 Internet,,,,,,technologie
+intéressant-e,,,,,,adjectif
 inviter,,,,,,verbe verbe-dir
 iPhone,,,,,,technologie
 Italie,,,,,,lieu pays
@@ -368,7 +347,6 @@ jamais,,,,,,adverbe
 janvier,,,,,,
 jardin,,,,,,nature
 jaune,,,,,,couleur
-Jésus,,,,,,
 jeudi,,,,,,
 jeune,,,,,,adjectif
 Joseph,,,,,,
@@ -381,16 +359,14 @@ juillet,,,,,,
 juin,,,,,,
 jumeau - jumelle,,,,,,famille
 juste,,,,,,adjectif
+Jésus,,,,,,
 L'Escalade,,,,,,activité
 La Poste,,,,,,service
 lac,,,,,,nature
 lama,,,,,,animal
 lapin,,,,,,animal
-léger - légère,,,,,,adjectif
-légume,,,,,,nature
 lettre (caractère),,,,,,langue
 lettre (correspondance),,,,,,communication
-lézard,,,,,,animal
 lion,,,,,,animal
 locataire,,,,,,
 loisir,,,,,,
@@ -398,6 +374,9 @@ long,,,,,,adjectif
 loup,,[sound:loup.mp4],,,,animal
 lourd-e,,,,,,adjectif
 lundi,,,,,,
+léger - légère,,,,,,adjectif
+légume,,,,,,nature
+lézard,,,,,,animal
 mai,,,,,,
 maigre,,,,,,adjectif
 mais,,,,,,préposition
@@ -419,15 +398,12 @@ match,Comme dans match de foot,,,,,activité
 Mathématique,,,,,,mathématique
 matin,,,,,,
 mauvais,,,,,,adjectif
-méchant-e,,,,,,adjectif
-médecin-e,,,,,,profession
 mentir,,,,,,verbe
 menu,,,,,,
 mer,,,,,,
 merci,,,,,,
 merci beaucoup,,,,,,formule
 mercredi,,,,,,
-météo,,,,,,
 metteur en scène,,,,,,profession
 miel,,,,,,nature nourriture
 mieux,,,,,,adverbe
@@ -454,9 +430,12 @@ mouillé,,,,,,adjectif
 moustique,,,,,,animal
 mouton,,,,,,animal
 mur,,,,,,bâtiment
-mûre,,,,,,fruit nature nourriture
 musique,,,,,,activité
 myrtilles,,,,,,nature nourriture
+méchant-e,,,,,,adjectif
+médecin-e,,,,,,profession
+météo,,,,,,
+mûre,,,,,,fruit nature nourriture
 n'importe quoi,,,,,,formule
 naître,,,,,,verbe
 ne pas aimer,,,,,,verbe verbe-aff-nég
@@ -465,30 +444,29 @@ ne pas avoir besoin,,,,,,verbe verbe-aff-nég
 ne pas avoir envie,,,,,,verbe verbe-aff-nég
 ne pas comprendre,,,,,,verbe verbe-aff-nég
 ne pas connaître,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ne-pas-connaitre/,,verbe verbe-aff-nég
-ne pas être fini,,,,,,verbe verbe-aff-nég
-ne pas être là,,,,,,verbe verbe-aff-nég
 ne pas pouvoir,,,,,,verbe verbe-aff-nég
 ne pas savoir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ne-pas-savoir/,,verbe verbe-aff-nég
 ne pas vouloir,,,,,,verbe verbe-aff-nég
+ne pas être fini,,,,,,verbe verbe-aff-nég
+ne pas être là,,,,,,verbe verbe-aff-nég
 nerveux - nerveuse,,,,,,adjectif
 neveu,,,,,,famille
 nid,,,,,,nature
 nièce,,,,,,famille
-Noël,,,,,,activité événement
 noir,,,,,,couleur
 nom,,,,,,langue
 non,,,,,,
 Norvège,,,,,,lieu pays
 Nouvelle Zélande,,,,,,lieu pays
 novembre,,,,,,
+Noël,,,,,,activité événement
 nuage,,,,,,nature
 nuit,,,,,,nature
 numéro,,,,,,mathématique
-obéir,,,,,,verbe
 obliger,,,,,,verbe
+obéir,,,,,,verbe
 octobre,,,,,,
 oeil - yeux,,,,,,
-œuf,,,,,,nature nourriture
 offrir,,,,,,verbe verbe-dir
 oiseau,,[sound:oiseau.mp4],,,,animal
 on verra,,,,,,formule
@@ -501,12 +479,12 @@ ordre,,,,,,
 oreille,,,,,,
 organiser,,,,,,verbe
 origine,,,,,,
-où,,,,,,adverbe
 ou bien,,,,,,
 oublier,,,,,,verbe
 ours,,,,,,animal
 ourson,,,,,,animal
 ouvrir,,,,,,verbe
+où,,,,,,adverbe
 paille - foin,,,,,,bâtiment
 panier,,,,,,
 panne,Tomber en panne,,,,,
@@ -514,7 +492,6 @@ panthère,,,,,,animal
 papa,,,,,,famille
 papier,,,,,,outil
 papillon,,,,,,animal
-Pâques,,,,,,activité événement
 par - à cause - car,,,,,,préposition
 parapluie,,,,,,
 parce que,,,,,,
@@ -531,7 +508,6 @@ passé,,,,,,
 pastèque,,,,,,nature nourriture
 pauvre,,,,,,adjectif
 pays - état,,,,,,
-pénible,,,,,,adjectif
 penser,,,,,,verbe
 perdre (égarer),,,,,,verbe
 petit pois,,,,,,nature nourriture
@@ -540,9 +516,9 @@ petit-fils,,,,,,famille
 petite-fille,,,,,,famille
 peur,,,,,,
 phoque,,,,,,animal
-pièce de théâtre,,,,,,activité formule
 piment,,,,,,nourriture
 piquant,,,,,,adjectif
+pièce de théâtre,,,,,,activité formule
 place,,,,,,
 plaisir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/plaisir/,,
 plante,,,,,,nature
@@ -550,7 +526,6 @@ pleurer,,,,,,verbe
 pleuvoir,,,,,,nature
 pluie,,,,,,nature
 plus,Davantage.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/plus-2/,,
-poèsie,,,,,,activité
 poire,,,,,,nature nourriture
 poivre,,,,,,nourriture
 policier - policière,,,,,,profession
@@ -567,14 +542,8 @@ pour,,,,,,préposition
 pourquoi,,,,,,adverbe
 poussin,,[sound:poussin.mp4],,,,animal
 pouvoir,,,,,,verbe verbe-aff-nég
-préférer,,,,,,verbe
+poèsie,,,,,,activité
 prendre,,,,,,verbe
-prénom,,,,,,langue
-préparer,,,,,,verbe
-près,,,,,,adverbe
-présent,,,,,,
-président,,,,,,profession
-prêter,,,,,,verbe verbe-dir
 printemps,,,,,,
 problème,Ennui. Difficulté qu'il faut résoudre pour obtenir un certain résultat.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/probleme-1,,
 proche,,,,,,adjectif adverbe
@@ -583,10 +552,19 @@ promettre,,,,,,verbe
 pronom,,,,,,langue
 proposer,,,,,,verbe verbe-dir
 propre,,,,,,adjectif
-protégéer,,,,,,verbe-dir
 protéger,,,,,,verbe verbe-dir
+protégéer,,,,,,verbe-dir
 prune,,,,,,fruit nature nourriture
+près,,,,,,adverbe
+préférer,,,,,,verbe
+prénom,,,,,,langue
+préparer,,,,,,verbe
+présent,,,,,,
+président,,,,,,profession
+prêter,,,,,,verbe verbe-dir
 punir,,,,,,verbe
+Pâques,,,,,,activité événement
+pénible,,,,,,adjectif
 quand,,,,,,adverbe
 que faire,,,,,,adverbe question
 quelqu'un,,,,,,pronom
@@ -599,23 +577,14 @@ ranger,,,,,,verbe
 raquettes,,,,,,
 rat,,,,,,animal
 recette,,,,,,
-réfléchir,,,,,,verbe
-règles,,,,,,
 Reims,,,,,,lieu ville
 reine,,,,,,profession
-réjoindre,,,,,,verbe verbe-dir
 renard,,,,,,animal
 rencontrer,,,,,,verbe
-répéter,,,,,,verbe
-répondre,,,,,,verbe verbe-dir
 reprendre,,,,,,verbe
 requin,,,,,,animal
-réserve,,,,,,
 restaurant,,,,,,lieu
 rester,,,,,,verbe
-Réveillon,,,,,,activité
-rêver,,,,,,verbe
-réviser,,,,,,verbe
 rhinocéros,,,,,,animal
 rhum,,,,,,nourriture
 riche,,,,,,adjectif
@@ -625,13 +594,22 @@ rivière,,,,,,nature
 riz,,,,,,nourriture
 roi,,,,,,profession
 Roland Garros,,,,,,événement
-rôle,,,,,,
 romantique,,,,,,
 rose,,,,,,couleur
 roue,,,,,,outil
 rouge,,,,,,couleur
 route,,,,,,
 Russie,,,,,,lieu pays
+règles,,,,,,
+réfléchir,,,,,,verbe
+réjoindre,,,,,,verbe verbe-dir
+répondre,,,,,,verbe verbe-dir
+répéter,,,,,,verbe
+réserve,,,,,,
+Réveillon,,,,,,activité
+réviser,,,,,,verbe
+rêver,,,,,,verbe
+rôle,,,,,,
 s'amuser,,,,,,verbe
 s'appeler,,,,,,verbe
 s'enfuir,,,,,,verbe
@@ -642,9 +620,9 @@ saison,,,,,,calendrier
 salade,,,,,,nourriture
 Salam Al-hekum,,,,,,formule
 sale,,,,,,adjectif
-Salève,,,,,,lieu
 salle,,,,,,bâtiment
 salon,,,,,,bâtiment
+Salève,,,,,,lieu
 samedi,,,,,,
 sanglier,,,,,,animal
 sans,,,,,,adverbe
@@ -668,7 +646,6 @@ semaine,,,,,,
 sensible,,,,,,adjectif sentiment
 sentiment,,,,,,
 septembre,,,,,,
-sérieux - sérieuse,,,,,,
 serpent,,,,,,animal
 seul,,,,,,adverbe
 seulement,,,,,,
@@ -682,7 +659,6 @@ sinon,,,,,,
 site internet,,[sound:site internet.mp4],,,,technologie
 ski,,,,,,
 SMS,,,,,,communication technologie
-sœur,,,,,,famille
 soigner,,,,,,verbe
 soir,,,,,,
 soleil,,,,,,nature
@@ -702,18 +678,18 @@ sportif,,,,,,
 stressé-e,,,,,,adjectif
 subtil,,,,,,adjectif
 sucre,,,,,,nourriture
-Suède,,,,,,lieu pays
 Suisse,,,,,,lieu pays
 suivre,,,,,,verbe verbe-dir
 sur - par dessus,,,,,,préposition
 surveiller,,,,,,verbe
+Suède,,,,,,lieu pays
 sympathique,,,,,,adjectif
+sérieux - sérieuse,,,,,,
+sœur,,,,,,famille
 tais-toi!,,,"canard (à côté de la tête, pas en face)",,,formule
 tante,,,,,,famille
 taquiner,,,,,,verbe verbe-dir
 Tchéquie,,,,,,lieu pays
-téléphoner,,,,,,verbe verbe-dir
-tête,,,,,,
 Thaïlande,,,,,,lieu pays
 thé,,,,,,nourriture
 théatre,,,,,,activité
@@ -736,6 +712,8 @@ tricher,,,,,,verbe
 triste,,,,,,adjectif
 trop,,,,,,adverbe
 typique,,,,,,adjectif
+téléphoner,,,,,,verbe verbe-dir
+tête,,,,,,
 UE,,,,,,
 Ukraine,,,,,,lieu pays
 un peu,,,,,,adverbe formule
@@ -746,7 +724,6 @@ vache folle,,,,,,formule
 Vaud,,,,,,canton lieu
 veau,,,,,,animal
 veine,,,,,,pas-trouvé
-vélo,,,,,,outil transport
 vendre,,,,,,verbe verbe-dir
 vendredi,,,,,,
 vent,,,,,,nature
@@ -757,7 +734,6 @@ verbe directionnel,,,,,,langue
 verre (matériau),,,,,,bâtiment
 verre (récipient),,,,,,outil
 vert,,,,,,couleur
-vêtement,,,,,,habit
 vexé-e,,,,,,adjectif sentiment
 Vietnam,,,,,,lieu pays
 vieux - vieille,,,,,,adjectif
@@ -774,6 +750,30 @@ voilà,,,,,,
 voix,,,,,,
 vouloir,,,,,,verbe verbe-aff-nég
 vrai,,,,,,adjectif
+vélo,,,,,,outil transport
+vêtement,,,,,,habit
 weekend,,,,,,
 YouTube,,,,,,technologie
 zèbre,,,,,,animal
+à pied,,,,,,formule
+âtre,,,,,,
+ça,,,,,,
+ça va,,,,,,formule
+échelle,,,,,,outil
+éclair,,,,,,
+école,,,,,,lieu
+écouter,,,,,,verbe
+écureuil,,,,,,animal
+égoïste,,,,,,adjectif
+éléphant,,,,,,animal
+ému-e,,,,,,sentiment
+énergie,,,,,,
+épeler,,,,,,verbe
+étudiant-e,,,,,,profession
+étudier,,,,,,verbe
+été,,,,,,
+être d'accord,,,,,,verbe verbe-aff-nég
+être en retard,,,,,,verbe
+être fini,,,,,,verbe verbe-aff-nég
+être là,,,,,,verbe verbe-aff-nég
+œuf,,,,,,nature nourriture
