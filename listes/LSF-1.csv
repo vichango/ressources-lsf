@@ -32,7 +32,7 @@ année,,,,,,
 août,,,,,,
 apercevoir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/apercevoir/,,verbe verbe-dir
 appareil auditif,,,,,,outil
-appartement,,,,,,
+appartement,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/appartement/,,
 apporter,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/apporter/,,verbe
 apprendre,Lorsque nous ne savions pas quelque chose et que nous l'apprenons.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/apprendre/,,verbe
 apprendre par cœur,,,,,,formule
@@ -161,7 +161,7 @@ commander,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/commander/,,verbe
 comme,,,,,,
 commencer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/commencer/,,verbe
 comment,,,,,,adverbe
-compliqué,,,,,,adjectif
+compliqué,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/complique/,,adjectif
 comprendre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/comprendre/,,verbe verbe-aff-nég
 comédien - comedienne,,,,,,profession
 congé,,,,,,
@@ -182,7 +182,7 @@ course à pied,,,,,,activité
 court,,,,,,adjectif
 court-circuit,,,,,,
 couscous,,,,,,nourriture
-cousin,,,,,,famille
+cousin,,,,,,famille (effacer)
 couteau,,,,,,outil
 couvert,En parlant de la météo.,,,,,
 crabe,,,,,,animal
@@ -222,7 +222,7 @@ dos - verso,,,,,,
 doucement - lentement,,,,,,adverbe
 drôle,,,,,,adjectif
 dur,,,,,,adjectif
-début,Par exemple «le début de la course»,,,,,pas-trouvé
+début,Par exemple «le début de la course».,,,,,pas-trouvé
 débutant-e,,,,,,adjectif
 décembre,,,,,,
 décor,,,,,,
@@ -254,7 +254,7 @@ Europe,,,,,,
 exagérer,,,,,,verbe
 exemple,,,,,,
 expliquer,,,,,,verbe verbe-dir
-expression,,,Faire des guillemets dans l'air,,,
+expression,,,(en cours nous avons fait des guillemets dans l'air),,https://dico.elix-lsf.fr/dictionnaire/expression,
 fabriquer,,,,,,verbe
 facile,,,,,,adjectif
 faim,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/faim/,,
@@ -485,8 +485,8 @@ offrir,,,,,,verbe verbe-dir
 oiseau,,[sound:oiseau.mp4],,,,animal
 on verra,,,,,,formule
 oncle,,,,,,famille
-orange (couleur),,,,,,couleur
-orange (fruit),,,,,,nature nourriture
+orange (couleur),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/orange-1-1/,,couleur
+orange (fruit),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/orange-2-1/,,nature nourriture
 ordinateur,,,,,,technologie
 ordinateur portable,,,,,,technologie
 ordre,,,,,,
@@ -523,7 +523,7 @@ passé,,,,,,
 pastèque,,,,,,nature nourriture
 pauvre,,,,,,adjectif
 payer,,,,,,verbe
-pays - état,,,,,,
+pays - état,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pays/,,
 penser,,,,,,verbe
 perdre (échouer),,,,,,verbe
 perdre (égarer),,,,,,verbe
@@ -620,7 +620,8 @@ roue,,,,,,outil
 rouge,,,,,,couleur
 route,,,,,,
 Russie,,,,,,lieu pays
-règles,,,,,,
+règle,"Principe, maxime, loi, enseignement.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/regle-2/,,
+règles,,,,,,(effacer)
 réfléchir,,,,,,verbe
 réjoindre,,,,,,verbe verbe-dir
 répondre,,,,,,verbe verbe-dir
@@ -750,7 +751,7 @@ vendre,,,,,,verbe verbe-dir
 vendredi,,,,,,
 vent,,,,,,nature
 ventre,,,,,,
-verbe,,,,,,langue
+verbe,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/verbe/,,langue
 verbe affirmatif-négatif,,,,,,langue
 verbe directionnel,,,,,,langue
 verre (matériau),,,,,,bâtiment
@@ -758,7 +759,7 @@ verre (récipient),,,,,,outil
 vert,,,,,,couleur
 vexé-e,,,,,,adjectif sentiment
 Vietnam,,,,,,lieu pays
-vieux - vieille,,,,,,adjectif
+vieux - vieille,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vieux/,,adjectif
 vif - vive,,,,,,adjectif
 village,,,,,,
 ville,,,,,,
@@ -773,7 +774,7 @@ voix,,,,,,
 voler (prendre),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/voler-1/,,verbe
 vouloir,,,,,,verbe verbe-aff-nég
 vrai,,,,,,adjectif
-vélo,,,,,,outil transport
+vélo,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/velo-bicyclette/,,outil transport
 vêtement,,,,,,habit
 weekend,,,,,,
 YouTube,,,,,,technologie

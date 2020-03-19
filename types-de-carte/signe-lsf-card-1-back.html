@@ -1,0 +1,29 @@
+{{FrontSide}}
+
+<hr id=answer>
+
+{{#Vidéo (LSF)}}
+  {{Vidéo (LSF)}}
+  <p class="small">{{Description (LSF)}}</p>
+  <p class="small">
+    {{#Lexique FSS}}
+      <a href="{{Lexique FSS}}">Lexique FSS</a>
+    {{/Lexique FSS}}
+    {{#LeDicoElix}}
+      <a href="{{LeDicoElix}}">LeDicoElix</a>
+    {{/LeDicoElix}}
+  </p>
+{{/Vidéo (LSF)}}
+
+{{^Vidéo (LSF)}}
+  <p>{{Description (LSF)}}</p>
+  <p>
+    {{#Lexique FSS}}
+      <a href="{{Lexique FSS}}">Lexique FSS</a>
+    {{/Lexique FSS}}
+    {{#LeDicoElix}}
+      <a href="{{LeDicoElix}}">LeDicoElix</a>
+    {{/LeDicoElix}}
+  </p>
+{{/Vidéo (LSF)}}
+
