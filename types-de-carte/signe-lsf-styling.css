@@ -1,6 +1,6 @@
 .card {
   font-family: Lato, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   text-align: center;
   color: black;
   background-color: white;
@@ -10,7 +10,10 @@ h1 {
 	font-size: 18px;
 }
 
+code {
+	color: gray;
+}
+
 .small {
   font-size: 12px;
 }
-
