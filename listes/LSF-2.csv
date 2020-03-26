@@ -149,9 +149,9 @@ fourchette,,,,,,outil
 fourmi,,,,,,animal
 fromagerie,,,magasin + fromage,,,lieu
 frustrer,,[sound:frustrer.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/frustrer/,,sentiment verbe
-fumée,,,,,,
-fusée,,,,,,transport
-gare,,,,,,lieu
+fumée,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fumee/,,
+fusée,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fusee/,,transport
+gare,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/gare/,,lieu
 Glaris,,,,,,canton lieu
 glisser,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/glisser/,,verbe
 gratuit,,,,,,adjectif
@@ -346,7 +346,7 @@ scientifique,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/science-scientifique/
 se rappeler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-rappeler/,,verbe
 se réveiller,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-reveiller/,,verbe
 se souvenir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-souvenir/,,verbe
-sens,"""Comme dans """"même sens/signification""""""",,,,,
+sens,Signification.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/sens/,,
 serveur - serveuse,,,,,,
 serviette,,,,,,outil
 singe,,,,,,animal
