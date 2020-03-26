@@ -25,11 +25,11 @@ then
 fi
 
 # LSF I.
-grep ",LSF I," < "$filepath" > LSF-1.csv
+grep ",LSF I," < "$filepath" > "LSF - Signes (niveau 1).csv"
 
 sed '1i\
 fr_mot,fr_desc,tags,has_lsf_video,lsf_desc,fss,elix,level,added
-' LSF-1.csv > LSF-1-header.csv
+' "LSF - Signes (niveau 1).csv" > LSF-1-header.csv
 
 mlr --csv \
 put '$lsf_video = "TRUE" == $has_lsf_video ? ("[sound:" . $fr_mot . ".mp4]") : ""' then \
@@ -38,19 +38,19 @@ sort -f fr_sort then \
 cut -x -f level,added,has_lsf_video,fr_sort then \
 reorder -f fr_mot,fr_desc,lsf_video,lsf_desc,fss,elix,tags LSF-1-header.csv > LSF-1-sorted.csv
 
-sed '1d' LSF-1-sorted.csv > LSF-1.csv
+sed '1d' LSF-1-sorted.csv > "LSF - Signes (niveau 1).csv"
 
 rm LSF-1-header.csv
 rm LSF-1-sorted.csv
 
-mv LSF-1.csv listes/
+mv "LSF - Signes (niveau 1).csv" listes/
 
 # LSF II.
-grep ",LSF II," < "$filepath" > LSF-2.csv
+grep ",LSF II," < "$filepath" > "LSF - Signes (niveau 2).csv"
 
 sed '1i\
 fr_mot,fr_desc,tags,has_lsf_video,lsf_desc,fss,elix,level,added
-' LSF-2.csv > LSF-2-header.csv
+' "LSF - Signes (niveau 2).csv" > LSF-2-header.csv
 
 mlr --csv \
 put '$lsf_video = "TRUE" == $has_lsf_video ? ("[sound:" . $fr_mot . ".mp4]") : ""' then \
@@ -59,11 +59,11 @@ sort -f fr_sort then \
 cut -x -f level,added,has_lsf_video,fr_sort then \
 reorder -f fr_mot,fr_desc,lsf_video,lsf_desc,fss,elix,tags LSF-2-header.csv > LSF-2-sorted.csv
 
-sed '1d' LSF-2-sorted.csv > LSF-2.csv
+sed '1d' LSF-2-sorted.csv > "LSF - Signes (niveau 2).csv"
 
 rm LSF-2-header.csv
 rm LSF-2-sorted.csv
 
-mv LSF-2.csv listes/
+mv "LSF - Signes (niveau 2).csv" listes/
 
 echo -e "Terminé!"
