@@ -14,7 +14,7 @@ ambulance,,[sound:ambulance.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/amb
 amende,Contravention.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/amende/,,
 annuler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/annuler/,,verbe
 antenne,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/antenne-1-1/,,technologie
-Appenzell,,,,,,canton lieu
+Appenzell,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/appenzell/,,canton lieu
 apéro,,,,,,activité
 argent,,,,,,
 Argovie,,,,,,canton lieu
@@ -52,12 +52,12 @@ boulanger,,,,,,
 boulanger - boulangère,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/boulanger-boulangere/,,profession
 boxe,,,,,,sport
 brûler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bruler/,,verbe
-buffet,,,,,,
+buffet,"Repas, self-service.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/buffet-2/,,nourriture
 bureau,"Lieu de travail. Aussi, meuble ou l'on travaille.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bureau-1/,,lieu outil
 Bâle,,,,,,canton lieu
 bélier,,[sound:bélier.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/belier/,,animal
 bûche de Noël,,,,,,nourriture
-caca,,,,,,
+caca,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/caca/,,
 calamar,,,,,,animal
 cancer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/cancer/,,médecine
 caractère,Trait propre à une personne.,[sound:caractère.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/caractere/,,
@@ -74,7 +74,7 @@ chaussettes,,,,,,
 chauve,,,,,,adjectif
 chauve-souris,,[sound:chauve-souris.mp4],(en cours: un peu différent de la variante FR),https://signsuisse.sgb-fss.ch/fr/lexikon/g/chauve-souris/,,animal
 chef (hiérarchie),"Personne qui dirige, qui commande.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chef/,,profession
-cheminée,,,,,,
+cheminée (toit),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/cheminee-2/,,bâtiment
 cher,,,,,,
 chiffre,,,,,,
 chips,,,,,,nourriture
@@ -186,18 +186,18 @@ hypocrite,,,,,,adjectif
 hélicoptère,,,,,,transport
 IKEA,Magasin,[sound:IKEA.mp4],,,,lieu
 il y'a,,,avoir (sans pronom),,,
-imaginaire,,,,,,
+imaginaire,,,,,https://dico.elix-lsf.fr/dictionnaire/imaginaire/adj.-175020,
 imaginer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/imaginer/,,verbe
 impoli-e,Pas poli.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/impoli-pas-poli/,,adjectif
 inauguration,,,,,,
 incapable,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/incapable/,,
 inconvénient,Désavantage,,ne pas aimer (plusieurs fois en petit),,,
-interpréter,,,,,,
+interprète,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/interprete/,,profession
 intégration,,[sound:intégration.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/integration/,,
 intéresser,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/interesser/,,verbe
 intérieur,,,,,,
 inventer,,[sound:inventer.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/inventer/,,verbe
-Irlande,,,,,,lieu pays
+Irlande,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/irlande/,,lieu pays
 islam,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/islam-1/,,religion
 jambon,,,,,,nourriture
 joie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/joie/,,
@@ -220,15 +220,15 @@ ligament,,[sound:ligament.mp4],,,https://dico.elix-lsf.fr/dictionnaire/ligament/
 litre,,,,,,
 lièvre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/lievre/,,animal
 loin,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/loin-1/,,adverbe
-Lucerne,,,,,,canton lieu
-luge,,,,,,
-lune,,,,,,nature
-lunettes,,,,,,
+Lucerne,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/lucerne-1/,,canton lieu ville
+luge,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/luge/,,outil sport
+lune,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/lune/,,nature
+lunettes,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/lunettes/,,
 lynx,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/lynx/,,animal
-Lyon,,,,,,lieu ville
+Lyon,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/lyon-1/,,lieu ville
 lécher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/lecher/,,verbe verbe-loc
-machine,,,,,,
-magasin,,[sound:magasin.mp4],,,,lieu
+machine,Appareil à moteur ou éléctrique.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/machine/,,outil
+magasin,,[sound:magasin.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/magasin/,,lieu
 magicien - magicienne,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/magicien/,,profession
 manchot,,,,,,animal
 Manor,,[sound:Manor.mp4],,,,
@@ -249,7 +249,7 @@ myrtille,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/myrtille/,,fruit nourritu
 mâle,,[sound:mâle.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/male-2/,,adjectif animal
 Mère Royaume,,,(madame ou mère) + roi,,,
 mètre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/metre/,,
-méduse,,,,,,animal
+méduse,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/meduse/,,animal
 méthode,,[sound:méthode.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/methode/,,
 métier,,,,,,
 naturel,,,,,,adjectif
@@ -286,7 +286,7 @@ pied,,[sound:pied.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pied/,,
 pigéon,,[sound:pigéon.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pigeon/,,animal
 pincer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pincer/,,verbe verbe-loc
 pingouin,,,,,,animal
-pipi,,,,,,
+pipi,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pipi-1/,,
 piquer,Comme piqure,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/piquer-1/,,verbe verbe-loc
 piqûre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/piqure/,,médecine
 piscine,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/piscine/,,bâtiment lieu sport
@@ -388,7 +388,7 @@ soumis-e,,[sound:soumis-e.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/soumi
 souper,,,soir + manger,,,formule
 souvenir,,,,,,
 spaghettis,,,,,,nourriture
-spécial-e,,,,,,adjectif
+spécial-e,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/special/,,adjectif
 stylo,,,,,,outil
 suisse,,,,,,gentilé
 sujet,(à propos de),,,,,
@@ -420,7 +420,7 @@ tôt,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/tot/,,adverbe
 uniforme,,[sound:uniforme.mp4],,,,habit
 universel - universelle,,[sound:universel - universelle.mp4],,,https://dico.elix-lsf.fr/dictionnaire/universel/adj.-224456,adjectif
 Unterwald,,,,,,canton lieu
-urgence,,,,,,
+urgence,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/urgence/,,
 Uri,,,,,,canton lieu
 utiliser,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/utiliser/,,verbe
 vaccin,,[sound:vaccin.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vaccin/,,médecine
