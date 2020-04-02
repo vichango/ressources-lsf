@@ -32,14 +32,14 @@ aller,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/aller/,,lsf-1 verbe
 aller chercher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/aller-chercher/,,lsf-1 verbe
 allumer,P. ex. une lampe.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/allumer/,,lsf-1 verbe
 allumette,,,,,,lsf-1 outil
-alors,,,,,,lsf-1 
+alors,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/alors/,,lsf-1 adverbe
 ambulance,,[sound:ambulance.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ambulance/,,lsf-2 
 amende,Contravention.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/amende/,,lsf-2 
 ami-e,,[sound:ami-e.mp4],,,,lsf-1 
 amoureux - amoureuse,,[sound:amoureux - amoureuse.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/amoureux-amoureuse/,,lsf-1 adjectif sentiment
 ananas,,[sound:ananas.mp4],,,,lsf-1 nature nourriture
 Android,,,,,,lsf-1 technologie
-ange,,,,,,lsf-1 
+ange,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ange/,https://dico.elix-lsf.fr/dictionnaire/ange/n.m.-130048,lsf-1 
 anglais,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/anglais/,,lsf-1 langue
 anniversaire,,,,,,lsf-1 
 annuler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/annuler/,,lsf-2 verbe
@@ -55,7 +55,7 @@ apprendre,Lorsque nous ne savions pas quelque chose et que nous l'apprenons.,,,h
 apprendre par cœur,,,,,,lsf-1 formule
 après,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/apres/,,lsf-1 préposition
 après-midi,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/apres-midi/,,lsf-1 calendrier
-apéro,,,,,,lsf-2 activité
+apéritif,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/aperitif/,,lsf-2 activité
 araignée,,,,,,lsf-1 animal
 arbre,,,,,,lsf-1 nature
 arc-en-ciel,,,,,,lsf-1 nature
@@ -72,7 +72,7 @@ artiste,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/artiste/,,lsf-2 profession
 Ascension,,,,,,lsf-1 activité événement
 Asie,,,,,,lsf-2 
 assiette,,,,,,lsf-2 outil
-assurance maladie,,,,,,lsf-2 service
+assurance maladie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/assurance-maladie/,,lsf-2 service
 athée,,,religion + ne pas avoir,https://signsuisse.sgb-fss.ch/fr/lexikon/g/athee/,,lsf-2 
 attendre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/attendre/,,lsf-1 verbe
 attention!,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/attention/,,lsf-2 formule
@@ -81,7 +81,7 @@ aubergine,,,,,,lsf-2
 aujourd'hui,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/aujourdhui/,,lsf-1 calendrier
 aussi,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/aussi/,,lsf-1 
 Australie,,,,,,lsf-2 lieu pays
-automne,,,,,,lsf-1 
+automne,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/automne/,,lsf-1 nature calendrier
 autonome,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/autonome/,,lsf-2 adjectif
 autoroute,,,,,,lsf-2 
 autre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/autre/,,lsf-1 pronom
@@ -96,7 +96,7 @@ aventure,,,,,,lsf-2
 aveugle,,,,,,lsf-1 adjectif
 avoir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/avoir/,,lsf-1 verbe verbe-aff-nég
 avoir besoin,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/avoir-besoin/,,lsf-1 verbe verbe-aff-nég
-avoir de la chance,,,,,,lsf-1 formule
+avoir de la chance,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/avoir-de-la-chance/,,lsf-1 formule
 avoir envie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/avoir-envie/,,lsf-1 verbe verbe-aff-nég
 avoir faim,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/faim/,,lsf-1 verbe
 avoir mal,,,,,,lsf-1 médecine
@@ -168,7 +168,7 @@ Bâle,,,,,,lsf-2 canton lieu
 bébé,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bebe/,,lsf-1 famille
 bélier,,[sound:bélier.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/belier/,,lsf-2 animal
 bénévole,,,,,,lsf-1 adjectif
-bête,,,,,,lsf-1 adjectif
+bête,"Idiot, stupide.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bete/,,lsf-1 adjectif
 bûche de Noël,,,,,,lsf-2 nourriture
 caca,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/caca/,,lsf-2 
 cadeau,,,,,,lsf-1 
@@ -207,9 +207,8 @@ Chaplin,,,,,,lsf-2 personnalité
 chasseur,,,,,,lsf-1 
 chat,,[sound:chat.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chat/,,lsf-1 animal
 chaud,,,,,,lsf-1 adjectif
-chaussette,,,,,,lsf-2 
-chaussettes,,,,,,lsf-2 
-chaussure,,,,,,lsf-1 habit
+chaussettes,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chaussettes/,,lsf-2 habit
+chaussures,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chaussures/,,lsf-1 habit
 chauve,,,,,,lsf-2 adjectif
 chauve-souris,,[sound:chauve-souris.mp4],(en cours: un peu différent de la variante FR),https://signsuisse.sgb-fss.ch/fr/lexikon/g/chauve-souris/,,lsf-2 animal
 chef (hiérarchie),"Personne qui dirige, qui commande.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chef/,,lsf-2 profession
@@ -218,7 +217,7 @@ cheminée (âtre),"Feu, âtre, foyer",,,https://signsuisse.sgb-fss.ch/fr/lexikon
 chenille,,,,,,lsf-1 animal
 cher,,,,,,lsf-2 
 chercher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chercher/,,lsf-1 verbe
-cheval,,,,,,lsf-1 animal
+cheval,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/cheval/,,lsf-1 animal
 cheveux,,,,,,lsf-1 
 chez,,,,,,lsf-1 préposition
 chien,,[sound:chien.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chien/,,lsf-1 animal
@@ -229,7 +228,7 @@ chips,,,,,,lsf-2 nourriture
 chocolat,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chocolat/,,lsf-1 nourriture
 choisir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/choisir-1/,,lsf-1 verbe
 cholesterol,,,,,,lsf-2 
-chose,,,,,,lsf-1 
+chose,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chose/,,lsf-1 
 chou,,,,,,lsf-1 nature nourriture
 chou blanc,,,,,,lsf-2 
 chou chinois,,,,,,lsf-2 
@@ -270,7 +269,7 @@ contact,État de corps qui se touchent.,,,,https://dico.elix-lsf.fr/dictionnaire
 conte,,,,,,lsf-1 activité
 contexte,,,,,,lsf-1 langue
 continuer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/continuer/,,lsf-1 verbe
-contrôler,,,,,,lsf-2 
+contrôler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/controler/,,lsf-2 verbe
 convaincre,,[sound:convaincre.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/convaincre/,,lsf-2 verbe verbe-dir
 cool,,,,,,lsf-2 adjectif
 COOP,Magasin,[sound:COOP.mp4],,,,lsf-2 lieu
@@ -341,7 +340,7 @@ dimanche,,,,,,lsf-1 calendrier
 dinde,,,,,,lsf-1 animal
 dinosaure,,,,,,lsf-1 animal
 dire,,,,,,lsf-1 verbe verbe-dir
-distance,,[sound:distance.mp4],,,,lsf-2 
+distance,,[sound:distance.mp4],,,https://dico.elix-lsf.fr/dictionnaire/distance/n.f.-155810,lsf-2 
 Donald Trump,Président des États-Unis d'Amérique,[sound:Donald Trump.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/trump-donald/,,lsf-2 personnalité
 donner,,,,,,lsf-1 verbe verbe-dir
 dos - verso,,,,,,lsf-1 
@@ -394,7 +393,7 @@ et cetera,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/et-cetera-etc/,,lsf-1 ad
 Europe,,,,,,lsf-1 
 exagérer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/exagerer/,,lsf-1 verbe
 exceptionnel,,,,,,lsf-2 adjectif
-exemple,,,,,,lsf-1 
+exemple,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/exemple/,,lsf-1 
 expliquer,,,,,,lsf-1 verbe verbe-dir
 expression,,,(en cours nous avons fait des guillemets dans l'air),,https://dico.elix-lsf.fr/dictionnaire/expression,lsf-1 
 fabriquer,,,,,,lsf-1 verbe
@@ -430,8 +429,8 @@ foie gras,,,,,,lsf-2 nourriture
 fois,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fois/,,lsf-1 
 folie,,,,,,lsf-2 
 fondue,,,,,,lsf-2 nourriture
-football - foot,,,,,,lsf-2 sport
-formation,,,,,,lsf-2 activité
+football - foot,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/football/,,lsf-2 sport
+formation,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/formation/,,lsf-2 activité
 fort-e,,,,,,lsf-1 adjectif
 forêt,,,,,,lsf-1 nature
 fou - folle,,,,,,lsf-2 adjectif
@@ -454,7 +453,6 @@ frère,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/frere/,,lsf-1 famille
 fumée,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fumee/,,lsf-2 
 fusée,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fusee/,,lsf-2 transport
 futur,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/futur/,,lsf-1 calendrier
-fâché-e,,,,,,lsf-1 adjectif sentiment
 février,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fevrier/,,lsf-1 calendrier
 fête,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fete/,,lsf-1 activité
 gagner (vaincre),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/gagner-1/,,lsf-1 verbe
@@ -464,7 +462,7 @@ garer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/garer/,,lsf-1 verbe
 garçon,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/garcon/,,lsf-1 
 geler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/geler/,,lsf-1 verbe
 gentil - gentille,,,,,,lsf-1 adjectif
-Genève,,,,,,lsf-1 canton lieu
+Genève,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/geneve/,,lsf-1 canton lieu ville
 gilet,,,,,,lsf-1 habit
 girafe,,,,,,lsf-1 animal
 Glaris,,,,,,lsf-2 canton lieu
@@ -490,7 +488,7 @@ guerre,,[sound:guerre.mp4],(différent en cours),https://signsuisse.sgb-fss.ch/f
 guirlande,,,,,,lsf-2 
 guêpe,,,,,,lsf-1 animal
 gâteau,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/gateau/,,lsf-1 nourriture
-génial-e,,,,,,lsf-2 
+génial-e,Extraordinaire.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/genial/,,lsf-2 
 généralement,(en général),,,,,lsf-2 
 généreux - généreuse,,,,,,lsf-1 adjectif
 Géométrie,,,,,,lsf-1 mathématique
@@ -532,7 +530,7 @@ imaginer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/imaginer/,,lsf-2 verbe
 implant cochléaire,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/implant-cochleaire/,,lsf-1 outil
 impoli-e,Pas poli.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/impoli-pas-poli/,,lsf-2 adjectif
 important,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/important/,,lsf-1 adjectif
-inauguration,,,,,,lsf-2 
+inauguration,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/inauguration/,,lsf-2 
 incapable,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/incapable/,,lsf-2 
 inconvénient,Désavantage,,ne pas aimer (plusieurs fois en petit),,,lsf-2 
 incroyable,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/incroyable/,,lsf-1 adjectif
@@ -556,13 +554,13 @@ jalousie,,,,,,lsf-1
 jamais,,,,,,lsf-1 adverbe
 jambon,,,,,,lsf-2 nourriture
 janvier,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/janvier/,,lsf-1 calendrier
-jardin,,,,,,lsf-1 nature
+jardin,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/jardin/,,lsf-1 nature
 jaune,,,,,,lsf-1 couleur
 jeudi,,,,,,lsf-1 calendrier
 jeune,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/jeune/,,lsf-1 adjectif
 joie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/joie/,,lsf-2 
 Joseph,,,,,,lsf-1 
-jouer,,,,,,lsf-1 verbe
+jouer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/jouer/,,lsf-1 verbe
 jour,,,,,,lsf-1 
 journal,,,,,,lsf-1 
 journée,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/journee/,,lsf-1 
@@ -601,7 +599,8 @@ lièvre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/lievre/,,lsf-2 animal
 locataire,,,,,,lsf-1 
 loin,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/loin-1/,,lsf-2 adverbe
 loisir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/loisirs/,,lsf-1 
-long,,,,,,lsf-1 adjectif
+long (durée),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/long-longue-3/,,lsf-1 adjectif
+long (longueur),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/long-longue-1/,,lsf-1 adjectif
 loup,,[sound:loup.mp4],,,,lsf-1 animal
 lourd-e,,,,,,lsf-1 adjectif
 LPC,Langage Parlé Complété,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/lpc/,,lsf-1 langue
@@ -628,7 +627,7 @@ malade,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/malade/,,lsf-1 adjectif mé
 malentendant,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/malentendant/,,lsf-1 adjectif médecine
 malin,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/malin/,,lsf-1 adjectif
 maman,,,,,,lsf-1 famille
-manchot,,,,,,lsf-2 animal
+manchot,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/manchot/,,lsf-2 animal
 mandarine,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/mandarine-1/,,lsf-1 nature nourriture
 mangue,,,,,,lsf-1 fruit nature nourriture
 manifestation,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/manifestation/,,lsf-1 activité
@@ -666,7 +665,7 @@ mimer,,,,,https://dico.elix-lsf.fr/dictionnaire/mimer/v.-189104,lsf-1 verbe
 minuit,,,,,,lsf-1 
 minute,,,,,,lsf-1 
 miss,,,,,,lsf-1 
-moche,,,,,,lsf-1 adjectif
+moche,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/moche/,,lsf-1 adjectif
 moins,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/moins/,,lsf-1 adverbe
 mois,,,,,,lsf-1 calendrier
 monnaie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/monnaie/,,lsf-1 outil
@@ -726,16 +725,16 @@ neveu,,,,,,lsf-1 famille
 nid,,,,,,lsf-1 nature
 nièce,,,,,,lsf-1 famille
 noir,,,,,,lsf-1 couleur
-nom,,,,,,lsf-1 langue
+nom,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nom/,,lsf-1 langue
 non,,,,,,lsf-1 
 nonne - sœur,,,messe,,,lsf-2 
 normal,,,,,,lsf-2 adjectif
-Norvège,,,,,,lsf-1 lieu pays
+Norvège,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/norvege/,,lsf-1 lieu pays
 nouveau - nouvelle,,,,,,lsf-2 adjectif
 Nouvelle Zélande,,,,,,lsf-1 lieu pays
 novembre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/novembre/,,lsf-1 calendrier
 Noël,,,,,,lsf-1 activité événement
-nuage,,,,,,lsf-1 nature
+nuage,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nuage/,,lsf-1 nature
 nuit,,,,,,lsf-1 nature
 numéro,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/numero/,,lsf-1 mathématique
 obliger,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/obliger/,,lsf-1 verbe
@@ -747,7 +746,7 @@ office,,,,,,lsf-2
 offrir,,,,,,lsf-1 verbe verbe-dir
 oignon,,,,,,lsf-2 
 oiseau,,[sound:oiseau.mp4],,,,lsf-1 animal
-on verra,,,,,,lsf-1 formule
+on verra,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/on-verra/,,lsf-1 formule
 oncle,,,,,,lsf-1 famille
 opération,,,(ciseau sur le dos de la main),,,lsf-2 
 opérer,,,"(en cours, aussi avec des ciseaux)",https://signsuisse.sgb-fss.ch/fr/lexikon/g/operer/,,lsf-2 verbe verbe-loc
@@ -832,7 +831,7 @@ plage,,,,,,lsf-2
 Plaine de Plainpalais,,[sound:Plaine de Plainpalais.mp4],,,,lsf-2 lieu
 plaisir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/plaisir/,,lsf-1 
 plante,,,,,,lsf-1 nature
-planète,,,,,,lsf-2 
+planète,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/planete/,https://dico.elix-lsf.fr/dictionnaire/planète/n.f.-200400,lsf-2 
 pleurer,,,,,,lsf-1 verbe
 pleuvoir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pleuvoir/,,lsf-1 nature verbe
 pluie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pluie/,,lsf-1 nature
@@ -947,12 +946,12 @@ respirer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/respirer/,,lsf-2 verbe
 ressembler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ressembler/,,lsf-2 verbe
 restaurant,,,,,,lsf-1 lieu
 rester,,,,,,lsf-1 verbe
-retraite,,,,,,lsf-2 
+retraite,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/retraite/,,lsf-2 
 revenir,,,,,,lsf-2 
 rhinocéros,,,"(en cours, deux mains en «J» depuis le nez)",https://signsuisse.sgb-fss.ch/fr/lexikon/g/rhinoceros/,,lsf-1 animal
 rhum,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rhum/,,lsf-1 nourriture
 rhume,,,,,,lsf-2 
-riche,,,,,,lsf-1 adjectif
+riche,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/riche/,,lsf-1 adjectif
 rien,,,,,,lsf-1 adverbe
 rien à voir,,,,,,lsf-1 expression
 rigoler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rigoler/,,lsf-1 verbe
@@ -965,7 +964,7 @@ Roland Garros,,,,,,lsf-1 événement
 romantique,,,,,,lsf-1 
 rose,,,,,,lsf-1 couleur
 roue,,,,,,lsf-1 outil
-rouge,,,,,,lsf-1 couleur
+rouge,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rouge/,,lsf-1 couleur
 route,,,,,,lsf-1 
 Russie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/russie/,,lsf-1 lieu pays
 râler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/raler/,,verbe
@@ -973,7 +972,7 @@ règle,"Principe, maxime, loi, enseignement.",,,https://signsuisse.sgb-fss.ch/fr
 règles (menstruation),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/regles/,,lsf-2 médecine
 réel - réelle,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/reel-reelle/,,lsf-2 
 réfléchir,,,,,,lsf-1 verbe
-réjoindre,,,,,,lsf-1 verbe verbe-dir
+réjoindre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rejoindre/,,lsf-1 verbe verbe-dir
 réparer,,,,,,lsf-2 
 répondre,,,,,,lsf-1 verbe verbe-dir
 répéter,,,,,,lsf-1 verbe
@@ -1011,8 +1010,8 @@ sang,,,(variante GE),https://signsuisse.sgb-fss.ch/fr/lexikon/g/sang-saigner/,,l
 sanglier,,,,,,lsf-1 animal
 sans,,,,,,lsf-1 adverbe
 santé,,,,,,lsf-1 formule médecine
-sapin,,,,,,lsf-2 nature
-satellite,,[sound:satellite.mp4],,,,lsf-2 
+sapin,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/sapin/,,lsf-2 nature
+satellite,,[sound:satellite.mp4],"(en cours, un peut différent)",https://signsuisse.sgb-fss.ch/fr/lexikon/g/satellite/,https://dico.elix-lsf.fr/dictionnaire/satellite/n.m.-212716,lsf-2 communication technologie
 sauce,,,,,,lsf-2 nourriture
 sauf,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/sauf/,,lsf-1 préposition
 saumon,,,,,,lsf-2 animal nourriture
@@ -1028,6 +1027,7 @@ se cacher,,,,,,lsf-1 verbe
 se cogner,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-cogner/,,lsf-2 verbe verbe-loc
 se couper,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-couper/,,lsf-2 verbe verbe-loc
 se demander,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-demander/,,lsf-1 verbe
+se fâcher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-facher/,,lsf-1 verbe sentiment
 se garer,,,,,,lsf-1 verbe
 se gratter,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-gratter/,,lsf-2 verbe verbe-loc
 se laver,"Se laver les cheveux, se laver les dents.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/laver-2/,,lsf-2 verbe verbe-loc
@@ -1075,13 +1075,13 @@ sortir,,,,,,lsf-1 verbe
 souffler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/souffler/,,lsf-1 verbe
 soumis-e,,[sound:soumis-e.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/soumis-soumise/,,lsf-2 adjectif sentiment
 soupe,,,,,,lsf-1 nourriture
-souper,,,soir + manger,,,lsf-2 formule
+souper,,,manger + soir,,,lsf-2 formule
 sourd,,,,,,lsf-1 adjectif
 sourd profond,,,,,,lsf-1 adjectif
 sourd sévère,,,,,,lsf-1 adjectif
 souris,,,,,,lsf-1 animal
 souvenir,,,,,,lsf-2 
-souvent,,,,,,lsf-1 adverbe
+souvent,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/souvent/,,lsf-1 adverbe
 spaghettis,,,,,,lsf-2 nourriture
 spectacle,,,(homosigne de théâtre),https://signsuisse.sgb-fss.ch/fr/lexikon/g/spectacle/,,lsf-1 activité
 sport,,,,,,lsf-1 
@@ -1119,7 +1119,7 @@ tente,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/tente/,,lsf-2 outil
 Tessin,,,,,,lsf-2 canton lieu
 Thaïlande,,,,,,lsf-1 lieu pays
 Thurgovie,,,,,,lsf-2 canton lieu
-thème,,,,,,lsf-2 
+thème,"Sujet, idée, propos.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/theme/,,lsf-2 communication
 thé,,,,,,lsf-1 nourriture
 théatre,,,,,,lsf-1 activité
 théorie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/theorie/,,lsf-2 
@@ -1132,7 +1132,7 @@ tortue,,[sound:tortue.mp4],,,,lsf-1 animal
 tortue marine,,[sound:tortue marine.mp4],,,,lsf-1 animal
 toucher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/toucher/,,lsf-2 verbe verbe-loc
 toujours,,,,,,lsf-1 adverbe
-tourisme,,,,,,lsf-2 
+tourisme,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/touriste/,,lsf-2 activité
 tous les jours,,,,,,lsf-1 formule
 Toussaint,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/toussaint/,,lsf-1 activité religion
 tout,,,,,,lsf-1 adverbe
@@ -1146,7 +1146,7 @@ travailler,,,,,,lsf-1 verbe
 travaux,,,,,,lsf-2 
 traîneau,,,,,,lsf-2 
 tricher,,,,,,lsf-1 verbe
-tricoter,,,,,,lsf-2 
+tricoter,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/tricoter/,,lsf-2 verbe
 triste,,,,,,lsf-1 adjectif
 trop,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/trop/,,lsf-1 adverbe
 trouver,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/trouver/,,lsf-1 verbe
@@ -1172,8 +1172,8 @@ Valais,,,,,,lsf-2 canton lieu
 vanter,,,,,https://dico.elix-lsf.fr/dictionnaire/vanter/v.-225041,lsf-1 verbe
 Vaud,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vaud/,,lsf-1 canton lieu
 veau,,,,,,lsf-1 animal
-vendre,,,,,,lsf-1 verbe verbe-dir
-vendredi,,,,,,lsf-1 calendrier
+vendre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vendre/,,lsf-1 verbe verbe-dir
+vendredi,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vendredi/,,lsf-1 calendrier
 vent,,,,,,lsf-1 nature
 ventre,,,,,,lsf-1 
 ver de terre,,,,,https://dico.elix-lsf.fr/dictionnaire/ver/n.m.-225508,lsf-2 animal
@@ -1185,7 +1185,7 @@ verre (récipient),,,,,,lsf-1 outil
 Versoix,,[sound:Versoix.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/versoix/,,lsf-2 lieu ville
 vert,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vert/,,lsf-1 couleur
 vexé-e,,,,,,lsf-1 adjectif sentiment
-viande,,,,,,lsf-2 nourriture
+viande,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/viande/,,lsf-2 nourriture
 viande seché,,,viande + sec,,,lsf-2 nourriture
 Vietnam,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vietnam-2/,,lsf-1 lieu pays
 vieux - vieille,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vieux/,,lsf-1 adjectif
@@ -1223,7 +1223,7 @@ zèbre,,,,,,lsf-1 animal
 à pied,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/a-pied/,,lsf-1 formule
 à tout à l'heure,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/a-tout-a-lheure/,,lsf-2 formule
 âne,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ane/,,lsf-2 animal
-ça,,,,,,lsf-1 
+ça,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ca-1/,,lsf-1 pronom
 ça dépend,,,,,,lsf-2 formule
 ça va,,,,,,lsf-1 formule
 échelle,,,,,,lsf-1 outil
@@ -1245,7 +1245,7 @@ zèbre,,,,,,lsf-1 animal
 étage,,,,,,lsf-2 
 étoile,,,,,,lsf-2 nature
 étonner,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/etonner/,,lsf-2 verbe
-étranger,"""Comme dans """"à l'étranger""""""",,,,,lsf-2 
+étranger,Qui est d'un autre pays.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/etranger/,https://dico.elix-lsf.fr/dictionnaire/étranger/adj.-162414,lsf-2 adjectif
 étudiant-e,,,,,,lsf-1 profession
 étudier,,,,,,lsf-1 verbe
 été,,,,,,lsf-1 

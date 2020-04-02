@@ -20,12 +20,12 @@ aller,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/aller/,,verbe
 aller chercher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/aller-chercher/,,verbe
 allumer,P. ex. une lampe.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/allumer/,,verbe
 allumette,,,,,,outil
-alors,,,,,,
+alors,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/alors/,,adverbe
 ami-e,,[sound:ami-e.mp4],,,,
 amoureux - amoureuse,,[sound:amoureux - amoureuse.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/amoureux-amoureuse/,,adjectif sentiment
 ananas,,[sound:ananas.mp4],,,,nature nourriture
 Android,,,,,,technologie
-ange,,,,,,
+ange,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ange/,https://dico.elix-lsf.fr/dictionnaire/ange/n.m.-130048,
 anglais,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/anglais/,,langue
 anniversaire,,,,,,
 année,,,,,,
@@ -50,7 +50,7 @@ attendre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/attendre/,,verbe
 au total,,,,,,formule
 aujourd'hui,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/aujourdhui/,,calendrier
 aussi,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/aussi/,,
-automne,,,,,,
+automne,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/automne/,,nature calendrier
 autre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/autre/,,pronom
 Autriche,,,,,,lieu pays
 autruche,,,,,,animal
@@ -61,7 +61,7 @@ Avent,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/avent/,,activité
 aveugle,,,,,,adjectif
 avoir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/avoir/,,verbe verbe-aff-nég
 avoir besoin,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/avoir-besoin/,,verbe verbe-aff-nég
-avoir de la chance,,,,,,formule
+avoir de la chance,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/avoir-de-la-chance/,,formule
 avoir envie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/avoir-envie/,,verbe verbe-aff-nég
 avoir faim,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/faim/,,verbe
 avoir mal,,,,,,médecine
@@ -110,7 +110,7 @@ brun,,,,,,couleur
 bus,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/autobus-trolleybus-bus/,,outil transport
 bébé,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bebe/,,famille
 bénévole,,,,,,adjectif
-bête,,,,,,adjectif
+bête,"Idiot, stupide.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bete/,,adjectif
 cadeau,,,,,,
 café,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/cafe/,,nourriture
 calendrier,,,,,,
@@ -136,11 +136,11 @@ chanter,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chanter/,,verbe
 chasseur,,,,,,
 chat,,[sound:chat.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chat/,,animal
 chaud,,,,,,adjectif
-chaussure,,,,,,habit
+chaussures,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chaussures/,,habit
 cheminée (âtre),"Feu, âtre, foyer",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/cheminee-1/,,bâtiment
 chenille,,,,,,animal
 chercher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chercher/,,verbe
-cheval,,,,,,animal
+cheval,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/cheval/,,animal
 cheveux,,,,,,
 chez,,,,,,préposition
 chien,,[sound:chien.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chien/,,animal
@@ -148,7 +148,7 @@ Chili,,,,,,lieu pays
 Chine,,,,,,lieu pays
 chocolat,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chocolat/,,nourriture
 choisir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/choisir-1/,,verbe
-chose,,,,,,
+chose,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chose/,,
 chou,,,,,,nature nourriture
 chèvre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chevre/,,animal
 cinéma,,,,,,lieu
@@ -251,7 +251,7 @@ essence,,,,,,
 et cetera,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/et-cetera-etc/,,adverbe
 Europe,,,,,,
 exagérer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/exagerer/,,verbe
-exemple,,,,,,
+exemple,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/exemple/,,
 expliquer,,,,,,verbe verbe-dir
 expression,,,(en cours nous avons fait des guillemets dans l'air),,https://dico.elix-lsf.fr/dictionnaire/expression,
 fabriquer,,,,,,verbe
@@ -292,7 +292,6 @@ fromage,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fromage/,,nourriture
 fruit,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fruit/,,nature nourriture
 frère,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/frere/,,famille
 futur,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/futur/,,calendrier
-fâché-e,,,,,,adjectif sentiment
 février,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fevrier/,,calendrier
 fête,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fete/,,activité
 gagner (vaincre),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/gagner-1/,,verbe
@@ -301,7 +300,7 @@ garer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/garer/,,verbe
 garçon,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/garcon/,,
 geler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/geler/,,verbe
 gentil - gentille,,,,,,adjectif
-Genève,,,,,,canton lieu
+Genève,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/geneve/,,canton lieu ville
 gilet,,,,,,habit
 girafe,,,,,,animal
 grammaire,,,,,,
@@ -354,12 +353,12 @@ italien,Langue parée en Italie.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/it
 jalousie,,,,,,
 jamais,,,,,,adverbe
 janvier,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/janvier/,,calendrier
-jardin,,,,,,nature
+jardin,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/jardin/,,nature
 jaune,,,,,,couleur
 jeudi,,,,,,calendrier
 jeune,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/jeune/,,adjectif
 Joseph,,,,,,
-jouer,,,,,,verbe
+jouer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/jouer/,,verbe
 jour,,,,,,
 journal,,,,,,
 journée,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/journee/,,
@@ -379,7 +378,8 @@ lettre (correspondance),,,,,,communication
 lion,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/lion/,,animal
 locataire,,,,,,
 loisir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/loisirs/,,
-long,,,,,,adjectif
+long (durée),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/long-longue-3/,,adjectif
+long (longueur),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/long-longue-1/,,adjectif
 loup,,[sound:loup.mp4],,,,animal
 lourd-e,,,,,,adjectif
 LPC,Langage Parlé Complété,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/lpc/,,langue
@@ -424,7 +424,7 @@ mimer,,,,,https://dico.elix-lsf.fr/dictionnaire/mimer/v.-189104,verbe
 minuit,,,,,,
 minute,,,,,,
 miss,,,,,,
-moche,,,,,,adjectif
+moche,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/moche/,,adjectif
 moins,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/moins/,,adverbe
 mois,,,,,,calendrier
 monnaie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/monnaie/,,outil
@@ -466,13 +466,13 @@ neveu,,,,,,famille
 nid,,,,,,nature
 nièce,,,,,,famille
 noir,,,,,,couleur
-nom,,,,,,langue
+nom,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nom/,,langue
 non,,,,,,
-Norvège,,,,,,lieu pays
+Norvège,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/norvege/,,lieu pays
 Nouvelle Zélande,,,,,,lieu pays
 novembre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/novembre/,,calendrier
 Noël,,,,,,activité événement
-nuage,,,,,,nature
+nuage,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nuage/,,nature
 nuit,,,,,,nature
 numéro,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/numero/,,mathématique
 obliger,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/obliger/,,verbe
@@ -481,7 +481,7 @@ octobre,,,«O» en cercle devant la bouche,https://signsuisse.sgb-fss.ch/fr/lexi
 oeil - yeux,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/oeil/,,
 offrir,,,,,,verbe verbe-dir
 oiseau,,[sound:oiseau.mp4],,,,animal
-on verra,,,,,,formule
+on verra,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/on-verra/,,formule
 oncle,,,,,,famille
 orange (couleur),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/orange-1-1/,,couleur
 orange (fruit),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/orange-2-1/,,nature nourriture
@@ -604,7 +604,7 @@ restaurant,,,,,,lieu
 rester,,,,,,verbe
 rhinocéros,,,"(en cours, deux mains en «J» depuis le nez)",https://signsuisse.sgb-fss.ch/fr/lexikon/g/rhinoceros/,,animal
 rhum,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rhum/,,nourriture
-riche,,,,,,adjectif
+riche,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/riche/,,adjectif
 rien,,,,,,adverbe
 rien à voir,,,,,,expression
 rigoler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rigoler/,,verbe
@@ -615,12 +615,12 @@ Roland Garros,,,,,,événement
 romantique,,,,,,
 rose,,,,,,couleur
 roue,,,,,,outil
-rouge,,,,,,couleur
+rouge,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rouge/,,couleur
 route,,,,,,
 Russie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/russie/,,lieu pays
 règle,"Principe, maxime, loi, enseignement.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/regle-2/,,
 réfléchir,,,,,,verbe
-réjoindre,,,,,,verbe verbe-dir
+réjoindre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rejoindre/,,verbe verbe-dir
 répondre,,,,,,verbe verbe-dir
 répéter,,,,,,verbe
 réserver (réservation),P.ex. réserver une chambre d'hôtel.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/reserver-1/,,verbe
@@ -654,6 +654,7 @@ savoir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/savoir-2/,,verbe verbe-aff-
 scooter,,,,,,outil transport
 se cacher,,,,,,verbe
 se demander,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-demander/,,verbe
+se fâcher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-facher/,,verbe sentiment
 se garer,,,,,,verbe
 se moquer,,,,,,verbe verbe-dir
 se promener,,,,,,verbe
@@ -690,7 +691,7 @@ sourd,,,,,,adjectif
 sourd profond,,,,,,adjectif
 sourd sévère,,,,,,adjectif
 souris,,,,,,animal
-souvent,,,,,,adverbe
+souvent,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/souvent/,,adverbe
 spectacle,,,(homosigne de théâtre),https://signsuisse.sgb-fss.ch/fr/lexikon/g/spectacle/,,activité
 sport,,,,,,
 sportif,,,,,,
@@ -743,8 +744,8 @@ vache,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vache/,,animal
 vanter,,,,,https://dico.elix-lsf.fr/dictionnaire/vanter/v.-225041,verbe
 Vaud,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vaud/,,canton lieu
 veau,,,,,,animal
-vendre,,,,,,verbe verbe-dir
-vendredi,,,,,,calendrier
+vendre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vendre/,,verbe verbe-dir
+vendredi,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vendredi/,,calendrier
 vent,,,,,,nature
 ventre,,,,,,
 verbe,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/verbe/,,langue
@@ -776,7 +777,7 @@ weekend,,,"«W» --> «E», ou «S» + «D»",https://signsuisse.sgb-fss.ch/fr/l
 YouTube,,,,,,technologie
 zèbre,,,,,,animal
 à pied,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/a-pied/,,formule
-ça,,,,,,
+ça,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ca-1/,,pronom
 ça va,,,,,,formule
 échelle,,,,,,outil
 éclair,,,,,,
