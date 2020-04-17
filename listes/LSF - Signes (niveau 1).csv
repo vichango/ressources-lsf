@@ -79,10 +79,10 @@ beau - belle,,,,,,adjectif
 beau-père,,,,,,famille
 beaucoup,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/beaucoup/,,adverbe
 beaux-parents,,,,,,famille
-beige,,,,,,couleur
+beige,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/beige-2/,,couleur
 Belgique,,,,,,lieu pays
 belle-mère,,,,,,famille
-beurre,,,,,,nourriture
+beurre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/beurre/,,nourriture
 bientôt,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bientot/,,adverbe
 bijou,,,,,,
 biscuit,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/biscuit/,,nourriture
@@ -165,7 +165,7 @@ comment,De quelle manière?,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/comment
 compliqué,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/complique/,,adjectif
 comprendre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/comprendre/,,verbe verbe-aff-nég
 comédien - comedienne,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/comedien-comedienne/,,profession
-congé,,,,,,
+congé,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/conge/,,
 conjugaison,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/conjugaison/,,langue
 connaître,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/connaitre/,,verbe verbe-aff-nég
 construire,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/construire/,,verbe
@@ -173,7 +173,7 @@ conte,,,,,,activité
 contexte,,,,,,langue
 continuer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/continuer/,,verbe
 copain - copine,,,,,,
-coq,,,,,,animal
+coq,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/coq/,,animal
 couleur,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/couleur/,,
 coupable,,,,,,adjectif
 courge,,,,,,nature nourriture
@@ -201,7 +201,7 @@ cygne,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/cygne/,,animal
 cœur,,,,,,
 dactylologie,,,,,,communication
 danser,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/danser/,,verbe
-de rien,,,,,,formule
+de rien,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/de-rien/,,formule
 degré,,,,,,
 dehors,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/dehors-1/,,adverbe
 demain,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/demain/,,calendrier
@@ -235,7 +235,7 @@ déprimé-e,,,,,,adjectif sentiment
 déçu-e,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/decu-decue/,,adjectif sentiment
 Egypte,,,,,,lieu pays
 en face,,,,,,
-en forme,,,,,,adjectif
+en forme,,[sound:en forme.mp4],,,,adjectif
 encore,,,,,,adverbe
 enfant,,,,,,famille
 enseigner,,,,,,verbe verbe-dir
@@ -260,7 +260,7 @@ faim,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/faim/,,
 faire,,,,,,verbe
 faire attention,,,,,,verbe
 famille,,,,,,
-fatigué,,,,,,adjectif
+fatigué,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/fatigue/,,adjectif
 faux (pas juste),Erroné.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/faux-1/,,adjectif
 faux (pas vrai),Copie.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/faux-2/,,adjectif
 femme,,,,,,
@@ -579,7 +579,7 @@ président,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/president/,,profession
 prêter,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/preter/,,verbe verbe-dir
 punir,,,,,,verbe
 Pâques,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/paques/,,activité événement
-pénible,,,,,,adjectif
+pénible,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/penible/,,adjectif
 pêcher (des poissons),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pecher-1/,,verbe
 quand,,,,,,adverbe
 que faire,,,,,,adverbe question
@@ -594,7 +594,7 @@ raquettes,,,,,,
 rat,,[sound:rat.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rat/,,animal
 recette,,,,,,
 recommencer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/recommencer/,,verbe
-Reims,,,,,,lieu ville
+Reims,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/reims/,,lieu ville
 reine,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/reine/,,profession
 renard,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/renard/,,animal
 rencontrer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rencontrer/,,verbe
@@ -613,13 +613,13 @@ riz,,,,,,nourriture
 roi,,,,,,profession
 Roland Garros,,,,,,événement
 romantique,,,,,,
-rose,,,,,,couleur
+rose,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rose-1/,,couleur
 roue,,,,,,outil
 rouge,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rouge/,,couleur
 route,,,,,,
 Russie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/russie/,,lieu pays
 règle,"Principe, maxime, loi, enseignement.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/regle-2/,,
-réfléchir,,,,,,verbe
+réfléchir,,,(homosigne de «se demander»),https://signsuisse.sgb-fss.ch/fr/lexikon/g/reflechir/,,verbe
 réjoindre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rejoindre/,,verbe verbe-dir
 répondre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/repondre/,,verbe verbe-dir
 répéter,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/repeter/,,verbe
@@ -653,7 +653,7 @@ sauver,,,,,,verbe
 savoir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/savoir-2/,,verbe verbe-aff-nég
 scooter,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/scooter/,,outil transport
 se cacher,,,,,,verbe
-se demander,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-demander/,,verbe
+se demander,,,(homosigne de «réfléchir»),https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-demander/,,verbe
 se fâcher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-facher/,,verbe sentiment
 se garer,,,,,,verbe
 se moquer,,,,,,verbe verbe-dir
@@ -680,7 +680,7 @@ site internet,,[sound:site internet.mp4],,,,technologie
 ski,,,,,,
 SMS,,,,,,communication technologie
 soigner,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/soigner/,,verbe verbe-dir
-soir,,,,,,
+soir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/soir/,,calendrier
 soleil,,,,,,nature
 solide,,,,,,adjectif
 sombre - obscur,,,,,,adjectif
@@ -692,9 +692,9 @@ sourd profond,,,,,,adjectif
 sourd sévère,,,,,,adjectif
 souris,,,,,,animal
 souvent,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/souvent/,,adverbe
-spectacle,,,(homosigne de théâtre),https://signsuisse.sgb-fss.ch/fr/lexikon/g/spectacle/,,activité
-sport,,,,,,
-sportif,,,,,,
+spectacle,,,(homosigne de «théâtre»),https://signsuisse.sgb-fss.ch/fr/lexikon/g/spectacle/,,activité
+sport,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/sport-2/,,activité
+sportif - sportive,,,(homosigne de «sport»),https://signsuisse.sgb-fss.ch/fr/lexikon/g/sportif/,,adjectif
 stress,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/stress-3/,,sentiment médecine 
 subtil,,,,,,adjectif
 sucre,,,,,,nourriture
@@ -711,7 +711,7 @@ tante,,,comme «thé» mais à côté (variante GE du lexique FSS),https://signs
 taquiner,,,,,,verbe verbe-dir
 Tchéquie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/republique-tcheque/,,lieu pays
 Thaïlande,,,,,,lieu pays
-thé,,,,,,nourriture
+thé,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/the/,,nourriture
 théatre,,,,,,activité
 tigre,,,,,,animal
 titre,,,,,,
@@ -732,7 +732,7 @@ tricher,,,,,,verbe
 triste,,,,,,adjectif
 trop,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/trop/,,adverbe
 trouver,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/trouver/,,verbe
-typique,,,,,,adjectif
+typique,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/typique/,https://dico.elix-lsf.fr/dictionnaire/typique/adj.-224134,adjectif
 téléphoner,,,,,,verbe verbe-dir
 tête,,,,,,
 UE,,,,,,
@@ -772,7 +772,7 @@ voler (prendre),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/voler-1/,,verbe
 vouloir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vouloir/,,verbe verbe-aff-nég
 vrai,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/vrai/,,adjectif
 vélo,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/velo-bicyclette/,,outil transport
-vêtement,,,,,,habit
+vêtement,,,(homosigne de «s'habiller»),https://signsuisse.sgb-fss.ch/fr/lexikon/g/vetement/,,habit
 weekend,,,"«W» --> «E», ou «S» + «D»",https://signsuisse.sgb-fss.ch/fr/lexikon/g/week-end-1/,,calendrier
 YouTube,,,,,,technologie
 zèbre,,,,,,animal
