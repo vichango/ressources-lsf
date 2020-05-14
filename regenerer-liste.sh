@@ -27,7 +27,7 @@ fi
 # Replace header.
 sed '1d' "$filepath" > "LSF - Signes.csv"
 sed '1i\
-fr_mot,fr_desc,tags,has_lsf_video,lsf_desc,fss,elix,level,added
+fr_mot,fr_desc,tags,lsf_video_tmp,lsf_desc,fss,elix,level,added
 ' "LSF - Signes.csv" > "LSF - Signes (header).csv"
 
 # Add the following columns:
@@ -36,12 +36,13 @@ fr_mot,fr_desc,tags,has_lsf_video,lsf_desc,fss,elix,level,added
 # Add the level to the `tag` column.
 # Sort the table.
 mlr --csv \
-put '$lsf_video = "TRUE" == $has_lsf_video ? ("[sound:" . $fr_mot . ".mp4]") : ""' then \
+put '$lsf_video_key = "TRUE" == $lsf_video_tmp ? $fr_mot : $lsf_video_tmp' then \
+put '$lsf_video = "FALSE" == $lsf_video_key ? "" : ("[sound:" . $lsf_video_key . ".mp4]")' then \
 put '$tags = "LSF I" == $level ? ("lsf-1 " . $tags) : $tags' then \
 put '$tags = "LSF II" == $level ? ("lsf-2 " . $tags) : $tags' then \
 put '$fr_sort = tolower($fr_mot)' then \
 sort -f fr_sort then \
-cut -x -f level,added,has_lsf_video,fr_sort then \
+cut -x -f level,added,lsf_video_tmp,lsf_video_key,fr_sort then \
 reorder -f fr_mot,fr_desc,lsf_video,lsf_desc,fss,elix,tags \
 "LSF - Signes (header).csv" > "LSF - Signes (sorted).csv"
 
