@@ -1,11 +1,17 @@
 # README
 
-## Gestion des listes
+The goal of this project is to help generating the Anki deck I'm using to learn [LSF](https://fr.wikipedia.org/wiki/Langue_des_signes_française).
 
-### Génération du fichier CSV importable
+## Word list management
 
-1. Exporter la feuille avec les mots au format CSV (`Tout.csv`).
-2. La déplacer à la racine de ce projet.
-3. Lancer `regenerer-lsf-1.sh` pour régénerer la liste des mots et formules du cours LSF I.
+I keep track of the words I've learnt in a worksheet which I then export to CSV. The format of the CSV file is best for my manual use. The goal of the `regenerate-list.sh` script is to format it so that it can be imported into Anki.
 
+Call the script by specifying the path to the file to transform, the output will be saved in `/vagrant/list/LSF - Signes.csv`:
 
+```shell
+$ source regenerate-list.sh -f <path>
+```
+
+## Video management
+
+The `resize-encode.sh` script resizes videos in the `/vagrant/videos` folder from and expected `720p` (`*.m4v`) to `240p` (`*.mp4`).

@@ -2,10 +2,10 @@
 
 helpFunction()
 {
-   echo "Utilisé pour regénérer le fichiers CSV à importer dans le Deck Anki existant."
+   echo "Regenerates CSV files to import in an existing Anki deck."
    echo ""
-   echo "Utilisation: $0 -f <nom de fichier>"
-   echo -e "\t-f le <nom de fichier> du CSV à utiliser comme base"
+   echo "Usage: $0 -f <file-name>"
+   echo -e "\t-f the <file-name> of the base CSV file."
    exit 1 # Exit script after printing help.
 }
 
@@ -54,6 +54,6 @@ sed '1d' "LSF - Signes (sorted).csv" > "LSF - Signes.csv"
 rm "LSF - Signes (header).csv"
 rm "LSF - Signes (sorted).csv"
 
-mv "LSF - Signes.csv" listes/
+mv "LSF - Signes.csv" /vagrant/list/
 
 echo -e "Terminé!"
