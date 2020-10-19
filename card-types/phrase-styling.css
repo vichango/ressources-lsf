@@ -1,19 +1,11 @@
 .card {
 	font-family: Lato, Helvetica, sans-serif;
-	font-size: 14px;
+	font-size: 20px;
 	text-align: center;
 	color: black;
 	background-color: white;
 }
 
-h1 {
-	font-size: 18px;
-}
-
-code {
-	color: gray;
-}
-
 .small {
-	font-size: 12px;
+	font-size: 14px;
 }

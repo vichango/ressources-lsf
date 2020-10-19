@@ -9,7 +9,7 @@ helpFunction()
    exit 1 # Exit script after printing help.
 }
 
-while getopts "f:f" opt # HACK The script doesn't work with a single "f".
+while getopts "f:f" opt # HACK Iterate from "f" to "f" because a single "f" doesn't work.
 do
    case "$opt" in
       f ) filepath="$OPTARG" ;;
@@ -41,6 +41,7 @@ put '$lsf_video = "FALSE" == $lsf_video_key ? "" : ("[sound:" . $lsf_video_key .
 put '$tags = "LSF I" == $level ? ("lsf-1 " . $tags) : $tags' then \
 put '$tags = "LSF II" == $level ? ("lsf-2 " . $tags) : $tags' then \
 put '$tags = "LSF III" == $level ? ("lsf-3 " . $tags) : $tags' then \
+put '$tags = "FALSE" == $lsf_video_key && "" == $fss && "" == $elix ? ("[manquant] " . $tags) : $tags' then \
 put '$fr_sort = tolower($fr_mot)' then \
 sort -f fr_sort then \
 cut -x -f level,added,lsf_video_tmp,lsf_video_key,fr_sort then \
