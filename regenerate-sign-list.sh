@@ -49,9 +49,9 @@ reorder -f fr_mot,fr_desc,lsf_video,lsf_desc,fss,elix,tags \
 "LSF - Signes (header).csv" > "LSF - Signes (sorted).csv"
 
 # Remove header.
-
 sed '1d' "LSF - Signes (sorted).csv" > "LSF - Signes.csv"
 
+# Remove temporary files.
 rm "LSF - Signes (header).csv"
 rm "LSF - Signes (sorted).csv"
 
