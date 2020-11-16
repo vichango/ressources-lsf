@@ -1,8 +1,7 @@
 .DS_Store
 .vagrant/
 
-/list/*
-!/list/LSF - Signes.csv
-!/list/LSF - Phrases.csv
+/list-signs/sources/
+/list-phrases/sources/
 
 /videos/

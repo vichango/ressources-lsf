@@ -2,14 +2,13 @@
 
 The goal of this project is to help generating the Anki deck I'm using to learn [LSF](https://fr.wikipedia.org/wiki/Langue_des_signes_française).
 
-## Word list management
+## List management
 
-I keep track of the words I've learnt in a worksheet which I then export to CSV. The format of the CSV file is best for my manual use. The goal of the `regenerate-list.sh` script is to format it so that it can be imported into Anki.
+I keep track of the words and phrases I've learnt in multiple worksheet. The goal of the `regenerate-*.sh` scripts is to take a CSV version of those worksheets and refactor them into a single importable file (for Anki).
 
-Call the script by specifying the path to the file to transform, the output will be saved in `/vagrant/list/LSF - Signes.csv`:
-
-```shell
-$ source regenerate-list.sh -f <path>
+```sh
+# The script will merge all CSV files in list-*/sources
+$ source regenerate-<option>-list.sh
 ```
 
 ## Video management
