@@ -46,7 +46,7 @@ abricot,,[sound:abricot.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/abricot
 accepter,,[sound:accepter.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/accepter/,,lsf-2 verbe
 accident,,[sound:accident.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/accident/,,lsf-2 
 accompagner,,[sound:accompagner.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/accompagner/,,lsf-1 verbe verbe-dir
-accoucher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/accoucher/,,lsf-3 verbe
+accoucher,,[sound:accoucher.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/accoucher/,,lsf-3 verbe
 accrocher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/accrocher/,,lsf-2 verbe
 accuser,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/accuser/,,lsf-1 verbe
 acheter,,[sound:acheter.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/acheter/,,lsf-1 verbe
@@ -123,7 +123,7 @@ Ascension,,[sound:Ascension.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/asc
 Asie,,,,,,[manquant] lsf-2 
 assiette,,,,,,[manquant] lsf-2 outil
 Association 5S,,[sound:Association 5S.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/association-s5/,,lsf-3 
-assurance,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/assurance/,,lsf-3 
+assurance,,[sound:assurance.mp4],"En cours, « U »",https://signsuisse.sgb-fss.ch/fr/lexikon/g/assurance/,,lsf-3 
 assurance maladie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/assurance-maladie/,,lsf-2 service
 athée,,,religion + ne pas avoir,https://signsuisse.sgb-fss.ch/fr/lexikon/g/athee/,,lsf-2 
 attendre,,[sound:attendre.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/attendre/,,lsf-1 verbe
@@ -167,7 +167,7 @@ aïe!,,,,,,[manquant] lsf-1 interjection
 bain,,,,,,[manquant] lsf-2 
 balcon,,[sound:balcon.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/balcon/,,lsf-2 bâtiment lieu
 baleine,,[sound:baleine.mp4],(variante « VD »),https://signsuisse.sgb-fss.ch/fr/lexikon/g/baleine/,,lsf-1 animal
-ballon,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ballon-1/,,lsf-3 outil sport
+ballon,,[sound:ballon.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ballon-1/,,lsf-3 outil sport
 banane,,[sound:banane.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/banane-1/,,lsf-1 nature nourriture
 banque,,[sound:banque.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/banque/,,lsf-3 service activité
 bar,,[sound:bar.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bar/,,lsf-1 lieu
@@ -223,13 +223,13 @@ boulangerie,,[sound:boulangerie.mp4],,,,lsf-2 lieu
 boule,,[sound:boule.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/boule/,,lsf-1 
 boxe,,,,,,[manquant] lsf-2 sport
 branche,,[sound:branche.mp4],"(en cours, «arbre» puis mettre en évidence les branches)",https://signsuisse.sgb-fss.ch/fr/lexikon/g/branche-1/,,lsf-1 nature
-bretelle,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bretelle/,,lsf-3 habit
+bretelle,,[sound:bretelle.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bretelle/,,lsf-3 habit
 brique,,[sound:brique.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/brique-1/,,lsf-1 bâtiment
 brocoli,,[sound:brocoli.mp4],(signé différemment en cours),https://signsuisse.sgb-fss.ch/fr/lexikon/g/brocoli/,https://dico.elix-lsf.fr/dictionnaire/brocoli/n.m.-138812,lsf-3 variante nourriture légume
 brouillard,,[sound:brouillard.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/brouillard/,,lsf-1 nature
 bruit,,[sound:bruit.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bruit/,,lsf-1 
 brun,,[sound:brun.mp4],,,,lsf-1 couleur
-Brésil,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bresil/,,lsf-3 lieu pays
+Brésil,,[sound:Brésil.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bresil/,,lsf-3 lieu pays
 brûler,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/bruler/,,lsf-2 verbe
 budget,,[sound:budget.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/budget-1/,https://dico.elix-lsf.fr/dictionnaire/budget/n.m.-139106,lsf-2 
 buffet,"Repas, self-service.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/buffet-2/,,lsf-2 nourriture
@@ -327,7 +327,7 @@ chou rouge,,,,,,[manquant] lsf-2 nature nourriture
 chou-fleur,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chou-fleur/,,lsf-2 nature nourriture
 chouette,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chouette/,,lsf-2 animal
 chèvre,,[sound:chèvre.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chevre/,,lsf-2 animal
-chômage,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chomage/,,lsf-3 profession
+chômage,,[sound:chômage.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/chomage/,,lsf-3 profession
 cigarette,,[sound:cigarette.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/cigarette/,,lsf-2 
 cinéma,,[sound:cinéma.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/cinema-1/,,lsf-1 lieu
 citron,,[sound:citron.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/citron/,,lsf-3 nourriture nature fruit
@@ -351,7 +351,7 @@ comme prévu,,[sound:comme prévu.mp4],,,,lsf-2 formule
 commencer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/commencer/,,lsf-1 verbe
 comment,De quelle manière?,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/comment/,,lsf-1 adverbe
 communiquer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/communiquer/,,lsf-2 verbe
-comparer,"Mettre en parallèle, confronter. Par rapport à.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/comparer/,,lsf-3 verbe
+comparer,"Mettre en parallèle, confronter. Par rapport à.",[sound:comparer.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/comparer/,,lsf-3 verbe
 complet,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/complet/,,lsf-2 adjectif
 complexé-e,,[sound:complexé-e.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/complexe-complexee/,,lsf-2 adjectif
 compliqué,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/complique/,,lsf-1 adjectif
@@ -380,7 +380,7 @@ conte,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/conte/,,lsf-1 activité
 contexte,,[sound:contexte.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/contexte-1/,,lsf-1 langue
 continuer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/continuer/,,lsf-1 verbe
 contrat,,[sound:contrat.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/contrat/,,lsf-3 profession
-contre,S’opposer.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/contre/,https://dico.elix-lsf.fr/dictionnaire/contre/n.m.-147827,lsf-3 
+contre,S’opposer.,[sound:contre.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/contre/,https://dico.elix-lsf.fr/dictionnaire/contre/n.m.-147827,lsf-3 
 contrôler,"Vérifier, inspecter.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/controler/,,lsf-2 verbe
 convaincre,,[sound:convaincre.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/convaincre/,,lsf-2 verbe verbe-dir
 cool,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/cool-1/,,lsf-2 adjectif
@@ -460,13 +460,13 @@ devenir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/devenir/,,lsf-1 verbe
 deviner,,[sound:deviner.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/deviner/,,lsf-3 verbe
 devoirs,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/devoirs/,,lsf-1 
 diabètes,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/diabete/,,lsf-2 
-dicateur,,,"(en cours, « chef » +. « commander »)",,https://dico.elix-lsf.fr/dictionnaire/dictateur/n.m.-155066,lsf-3 
+dicateur,,[sound:dicateur.mp4],"En cours, [ chef ] + [ commander ]",,https://dico.elix-lsf.fr/dictionnaire/dictateur/n.m.-155066,lsf-3 
 difficile,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/difficile-1/,,lsf-1 adjectif
 différent,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/different/,,lsf-1 adjectif
 dimanche,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/dimanche/,,lsf-1 calendrier
 dinde,Dindon.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/dinde-dindon/,,lsf-1 animal
 dinosaure,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/dinosaure/,,lsf-2 animal
-diplomate (adjectif),,,Homosigne de [ flexible ],https://signsuisse.sgb-fss.ch/fr/lexikon/g/diplomate/,,lsf-3 adjectif
+diplomate (adjectif),,[sound:flexible.mp4],Homosigne de [ flexible ],https://signsuisse.sgb-fss.ch/fr/lexikon/g/diplomate/,,lsf-3 adjectif
 diplomate (profession),Représentant d’un gouvernement.,[sound:diplomate (profession).mp4],,,,lsf-3 profession
 dire,,,"(en cours, configuration «D»)",https://signsuisse.sgb-fss.ch/fr/lexikon/g/dire/,,lsf-1 verbe verbe-dir
 direct-e,Franc.,[sound:direct-e.mp4],(variante « GE »),https://signsuisse.sgb-fss.ch/fr/lexikon/g/direct-2/,,lsf-2 adjectif
@@ -502,7 +502,7 @@ définition,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/definition-1/,,lsf-2 l
 déjà (fini),"Acte, passé. Auparavant.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/deja-1/,,lsf-1 adverbe
 déjà (surprise),"Là maintenant, temps, rapide.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/deja-2/,,lsf-1 adverbe
 délicieux - délicieuse,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/delicieux/,,lsf-1 adjectif
-démocratie,,,,,https://dico.elix-lsf.fr/dictionnaire/d%C3%A9mocratie/n.f.-153194,lsf-3 
+démocratie,,[sound:démocratie.mp4],,,https://dico.elix-lsf.fr/dictionnaire/d%C3%A9mocratie/n.f.-153194,lsf-3 
 déni,,,(comme « refuser » mais avec le dos de la main active sur le front),,,[manquant] lsf-3 
 dénoncer,,[sound:dénoncer.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/denoncer/,,lsf-3 verbe
 départ,Lieu d’où l’on part.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/depart-2/,,lsf-2 sport lieu
@@ -555,7 +555,7 @@ exception,,[sound:exception.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/exc
 exceptionnel,,,,,,[manquant] lsf-2 adjectif
 exceptionnel - exceptionnelle,,[sound:exception.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/exceptionnel/,,lsf-2 
 exemple,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/exemple/,,lsf-1 
-expansion,,,,,,[manquant] lsf-3 
+expansion,,[sound:expansion.mp4],,,,lsf-3 
 expliquer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/expliquer/,,lsf-1 verbe verbe-dir
 exposition,,[sound:exposition.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/exposition/,,lsf-3 activité
 expression,,,(en cours nous avons fait des guillemets dans l'air),,https://dico.elix-lsf.fr/dictionnaire/expression,lsf-1 
@@ -709,7 +709,7 @@ humide,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/humide/,,lsf-1 adjectif
 hypocrite,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/hypocrite/,,lsf-2 adjectif
 hélicoptère,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/helicoptere/,,lsf-2 transport
 hérisson,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/herisson/,,lsf-2 animal
-héritage,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/heritage/,,lsf-3 
+héritage,,[sound:héritage.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/heritage/,,lsf-3 
 hôpital,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/hopital/,,lsf-2 lieu
 ici,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ici/,,lsf-1 adverbe
 idiot-e,,[sound:idiot-e.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/idiot/,,lsf-2 adjectif
@@ -896,7 +896,7 @@ migrer,,,,,,[manquant] lsf-1
 Migros,,[sound:Migros.mp4],,,,lsf-2 lieu
 Milan,,[sound:Milan.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/milan/,,lsf-2 lieu ville
 millard,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/milliard/,,lsf-1 chiffre mathématique
-million,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/million/,,lsf-3 chiffre mathématique
+million,,[sound:million.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/million/,,lsf-3 chiffre mathématique
 mimer,,,,,https://dico.elix-lsf.fr/dictionnaire/mimer/v.-189104,lsf-1 verbe
 mineur-e,Qui n'a pas atteint la majorité,[sound:mineur-e.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/mineur-mineure/,,
 minimum,,[sound:minimum.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/minimum/,,lsf-3 
@@ -943,7 +943,7 @@ médecin-e,,[sound:médecin-e.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/m
 médiocre,,[sound:moyen.mp4],(homosigne de «moyen»),https://signsuisse.sgb-fss.ch/fr/lexikon/g/moyen/,,lsf-2 adjectif
 méduse,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/meduse/,,lsf-2 animal
 méfiant-e,,[sound:méfiant-e.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/mefiant-mefiante/,,lsf-2 adjectif
-mémoire,,[sound:mémoire.mp4],(différent en cours),,https://dico.elix-lsf.fr/dictionnaire/mémoire/n.f.-187940,
+mémoire,,[sound:mémoire.mp4],,,https://dico.elix-lsf.fr/dictionnaire/mémoire/n.f.-187940,
 mémoire (dissertation),,[sound:mémoire (dissertation).mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/memoire-1/,,lsf-3 
 méprisant-e,,[sound:méprisant-e.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/meprisant-e/,,lsf-2 adjectif
 méthode,,[sound:méthode.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/methode/,,lsf-2 
@@ -952,7 +952,7 @@ météo,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/meteo/,,lsf-1
 mûre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/mure/,,lsf-1 fruit nature nourriture
 n'importe quoi,,[sound:n'importe quoi.mp4],"(en cours, configuration «U»)",https://signsuisse.sgb-fss.ch/fr/lexikon/g/nimporte-quoi/,,lsf-2 formule
 nager,,[sound:nager.mp4],(plus grand que piscine),https://signsuisse.sgb-fss.ch/fr/lexikon/g/nager/,,lsf-1 verbe
-nature,"La nature, ou comme adverbe dans: je prends mon café nature.",,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nature/,,lsf-3 adverbe nature
+nature,"La nature, ou comme adverbe dans: je prends mon café nature.",[sound:nature.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nature/,,lsf-3 adverbe nature
 naturel,,[sound:normal.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/naturel/,,lsf-2 adjectif
 nazi,,[sound:nazi.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nazi-nazisme/,,lsf-2 
 naître,,[sound:naître.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/naitre/,,lsf-1 verbe
@@ -976,9 +976,9 @@ nerveux - nerveuse,,[sound:nerveux - nerveuse.mp4],,https://signsuisse.sgb-fss.c
 Netflix,,[sound:Netflix.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/netflix/,,lsf-2 outil technologie
 nettoyer,,[sound:nettoyer.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nettoyer/,,lsf-2 verbe verbe-loc
 Neuchâtel,,[sound:Neuchâtel.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/neuchatel-1/,,lsf-2 canton ville lieu
-neutre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/neutre/,,lsf-3 adjectif
+neutre,,[sound:neutre.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/neutre/,,lsf-3 adjectif
 neveu,,[sound:neveu.mp4],(variante GE),https://signsuisse.sgb-fss.ch/fr/lexikon/g/neveu/,,lsf-1 famille
-Nice,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nice/,,lsf-3 lieu ville
+Nice,,[sound:Nice.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nice/,,lsf-3 lieu ville
 nid,,[sound:nid.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nid/,,lsf-1 nature
 nièce,,[sound:nièce.mp4],(variante GE),https://signsuisse.sgb-fss.ch/fr/lexikon/g/niece/,,lsf-1 famille
 noir,,[sound:noir.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/noir/,,lsf-1 couleur
@@ -1003,7 +1003,7 @@ nuit,,[sound:nuit.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nuit/,,lsf-1 
 nul - nulle,,[sound:nul - nulle.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/nul/,,lsf-2 adjectif
 numéro,,[sound:numéro.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/numero/,,lsf-1 mathématique
 négatif - négative,,[sound:négatif - négative.mp4],Dessiner un “—“ sur la paume ouverte avec un « T »,https://signsuisse.sgb-fss.ch/fr/lexikon/g/negatif/,,lsf-3 adjectif
-objet,,[sound:chose.mp4],(homosigne de « chose »),https://signsuisse.sgb-fss.ch/fr/lexikon/g/objet/,,
+objet,,[sound:chose.mp4],Homosigne de [ chose ],https://signsuisse.sgb-fss.ch/fr/lexikon/g/objet/,,
 obliger,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/obliger/,,lsf-1 verbe
 observer,,[sound:observer.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/observer/,,lsf-2 verbe verbe-dir
 obéir,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/obeir/,,lsf-1 verbe
@@ -1094,7 +1094,7 @@ penser,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/penser/,,lsf-1 verbe
 perdre (échouer),Être vaincu.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/perdre-2/,,lsf-1 verbe
 perdre (égarer),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/perdre-1/,,lsf-1 verbe
 personne ne …,,,,,,[manquant] lsf-2 
-personnel - personnelle,,,(homosigne «privé»),,https://dico.elix-lsf.fr/dictionnaire/personnel/adj.-198496,lsf-3 adjectif
+personnel - personnelle,,[sound:privé.mp4],Homosigne [ privé ],,,lsf-3 adjectif
 petit pois,,[sound:petit pois.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/petit-pois/,,lsf-1 nature nourriture
 petit-e,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/petit-petite-1/,,lsf-1 adjectif
 petit-fils,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/petit-fils-1/,,lsf-1 famille
@@ -1110,7 +1110,7 @@ pied,,[sound:pied.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pied/,,lsf-2
 pierre,,[sound:pierre.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pierre-rocher/,,lsf-3 nature
 pierre précieuse,,[sound:pierre précieuse.mp4],pierre + brillante?,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pierre-precieuse/,,lsf-3 nature
 pigéon,,[sound:pigéon.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pigeon/,,lsf-2 animal
-pile (batterie),,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pile/,,lsf-3 outil technologie
+pile (batterie),,[sound:pile (batterie).mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pile/,,lsf-3 outil technologie
 pile (précis),(Familier) Précisément. Il est six heures pile.,[sound:précis.mp4],Synonyme de [ précis ],https://signsuisse.sgb-fss.ch/fr/lexikon/g/precis/,,lsf-3 adverbe
 piment,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/piment/,,lsf-1 nature nourriture
 pincer,,[sound:pincer.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pincer/,,lsf-2 verbe verbe-loc
@@ -1186,7 +1186,7 @@ problème,Ennui. Difficulté qu'il faut résoudre pour obtenir un certain résul
 prochain,,,,,,[manquant] lsf-2 
 proche,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/proche/,,lsf-1 adjectif adverbe
 professeur-e,,[sound:professeur-e.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/professeur/,,lsf-1 profession
-professionnel - professionnelle,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/professionnel/,,lsf-3 
+professionnel - professionnelle,,[sound:professionnel - professionnelle.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/professionnel/,,lsf-3 
 profiter,,[sound:profiter.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/profiter/,,lsf-2 verbe
 programme,"""Comme dans """"le programme de la semaine""""""",,,,,[manquant] lsf-2 
 promettre,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/promettre/,,lsf-1 verbe
@@ -1206,7 +1206,7 @@ prénom,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/prenom/,,lsf-2 langue
 préparer,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/preparer/,,lsf-1 verbe
 présent,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/present/,,lsf-1 calendrier
 président,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/president/,,lsf-1 profession
-président élu,,,[ président ] + [ voter ],,,[manquant] lsf-3 formule profession
+président élu,,[sound:président élu.mp4],[ président ] + [ voter ],,,lsf-3 formule profession
 prévoir,,[sound:prévoir.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/prevoir/,,lsf-2 verbe
 prêt,Préparé pour quelque chose.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/pret/,,lsf-2 
 prêter,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/preter/,,lsf-1 verbe verbe-dir
@@ -1368,7 +1368,7 @@ se cogner,,[sound:se cogner.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-
 se couper,,[sound:se couper.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-couper/,,lsf-2 verbe verbe-loc
 se demander,,,(homosigne de «réfléchir»),https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-demander/,,lsf-1 verbe
 se débrouiller,,[sound:se débrouiller.mp4],(homosigne de « malin » ou « autonome »),,https://dico.elix-lsf.fr/dictionnaire/se%20débrouiller/v.-213469,lsf-3 verbe
-se déguiser,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-deguiser/,,lsf-3 verbe
+se déguiser,,[sound:se déguiser.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-deguiser/,,lsf-3 verbe
 se fâcher,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-facher/,,lsf-1 verbe sentiment
 se garer,,,,,,[manquant] lsf-1 verbe
 se gratter,,[sound:se gratter.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/se-gratter/,,lsf-2 verbe verbe-loc
@@ -1400,7 +1400,7 @@ seul,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/seul/,,lsf-1 adverbe
 seulement,,,,,,[manquant] lsf-1 
 sexe,Genre qui peut être masculin ou féminin.,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/sexe/,,lsf-1 médecine
 si,,,,,,[manquant] lsf-1 
-sieste,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/sieste/,,lsf-3 activité
+sieste,,[sound:sieste.mp4],[ dormir ] + [ moment ],https://signsuisse.sgb-fss.ch/fr/lexikon/g/sieste/,,lsf-3 activité
 signature,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/signature/,,lsf-1 
 signer,,,,,,[manquant] lsf-1 verbe
 silence,,,"(en cours, précédé de “shhh!”)",https://signsuisse.sgb-fss.ch/fr/lexikon/g/silence/,,lsf-1 
@@ -1484,6 +1484,7 @@ tatouage,,,,,https://dico.elix-lsf.fr/dictionnaire/tatouage/n.m.-219828,lsf-2 ac
 taupe,,[sound:taupe.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/taupe/,,lsf-2 animal
 taureau,,[sound:taureau.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/taureau/,,lsf-2 animal
 Tchéquie,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/republique-tcheque/,,lsf-1 lieu pays
+technique,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/technique/,,lsf-3 adjectif
 temps,Durée qui peut être mesurée.,[sound:temps.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/temps/,,
 tennis,,[sound:tennis.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/tennis-1/,,lsf-2 sport
 tente,,[sound:tente.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/tente/,,lsf-2 outil
@@ -1533,7 +1534,7 @@ triste,,,,,,[manquant] lsf-1 adjectif
 trop,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/trop/,,lsf-2 adverbe
 trottoir,,[sound:trottoir.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/trottoir/,,lsf-2 lieu
 trouver,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/trouver/,,lsf-1 verbe
-tuer,,,(variante « GE ») ? (en cours comme pistolet),https://signsuisse.sgb-fss.ch/fr/lexikon/g/tuer-1/,,lsf-3 verbe
+tuer,,[sound:tuer.mp4],(variante « GE ») ? (en cours comme pistolet),https://signsuisse.sgb-fss.ch/fr/lexikon/g/tuer-1/,,lsf-3 verbe
 tulipe,,[sound:tulipe.mp4],(signé différemment en cours),https://signsuisse.sgb-fss.ch/fr/lexikon/g/tulipe/,https://dico.elix-lsf.fr/dictionnaire/tulipe/n.f.-223915,lsf-3 nature variante
 tuteur,,,"(comme « aider » mais avec deux poings, celui du haut en « T »)",,,[manquant] lsf-3 
 typique,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/typique/,https://dico.elix-lsf.fr/dictionnaire/typique/adj.-224134,lsf-1 adjectif
@@ -1550,7 +1551,7 @@ UE,,,,,,[manquant] lsf-1
 Ukraine,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ukraine/,,lsf-1 lieu pays
 un peu,,,,,,[manquant] lsf-1 adverbe formule
 uniforme,,[sound:uniforme.mp4],,,,lsf-2 habit
-univers,,,,,https://dico.elix-lsf.fr/dictionnaire/univers/n.m.-224446,lsf-3 
+univers,,[sound:univers.mp4],,,https://dico.elix-lsf.fr/dictionnaire/univers/n.m.-224446,lsf-3 
 universel - universelle,,[sound:universel - universelle.mp4],,,https://dico.elix-lsf.fr/dictionnaire/universel/adj.-224456,lsf-2 adjectif
 université,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/universite/,,lsf-2 lieu
 Unterwald,,,,,,[manquant] lsf-2 canton lieu
@@ -1675,5 +1676,5 @@ zèbre,,[sound:zèbre.mp4],,https://signsuisse.sgb-fss.ch/fr/lexikon/g/zebre/,,l
 être en retard,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/retard/,,lsf-1 verbe
 être fini,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/finir/,,lsf-1 verbe verbe-aff-nég
 être là,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/etre-la/,,lsf-1 verbe verbe-aff-nég
-île,,,(variante « GE ») ?,https://signsuisse.sgb-fss.ch/fr/lexikon/g/ile/,,lsf-3 lieu
+île,,[sound:île.mp4],"En cours, mélange entre variantes.",https://signsuisse.sgb-fss.ch/fr/lexikon/g/ile/,,lsf-3 lieu
 œuf,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/oeuf/,,lsf-2 nature nourriture
