@@ -8,18 +8,20 @@
 # 5. Sort on `fr_sort`.
 # 6. Remove temporary columns.
 mlr --ors lf --csv \
-label fr_mot,fr_desc,tags,lsf_video_tmp,lsf_desc,fss,elix,level,added then \
+label fr_mot,fr_desc,tags,lsf_video_tmp,lsf_signwriting_tmp,lsf_desc,url_fss,url_other,level,added then \
 put '$lsf_video_key = "TRUE" == $lsf_video_tmp ? $fr_mot : $lsf_video_tmp' then \
 put '$lsf_video = "FALSE" == $lsf_video_key ? "" : ("[sound:" . $lsf_video_key . ".mp4]")' then \
+put '$lsf_signwriting_key = "TRUE" == $lsf_signwriting_tmp ? $fr_mot : $lsf_signwriting_tmp' then \
+put '$lsf_signwriting = "FALSE" == $lsf_signwriting_key ? "" : ("<img src=\"" . $lsf_signwriting_key . ".png\">")' then \
 put '$tags = "LSF I" == $level ? ("lsf-1 " . $tags) : $tags' then \
 put '$tags = "LSF II" == $level ? ("lsf-2 " . $tags) : $tags' then \
 put '$tags = "LSF III" == $level ? ("lsf-3 " . $tags) : $tags' then \
 put '$tags = "LSF IV" == $level ? ("lsf-4 " . $tags) : $tags' then \
-put '$tags = "FALSE" == $lsf_video_key && "" == $fss && "" == $elix ? ("[manquant] " . $tags) : $tags' then \
+put '$tags = "FALSE" == $lsf_video_key && "FALSE" == $lsf_signwriting_key && "" == $url_fss && "" == $url_other ? ("[manquant] " . $tags) : $tags' then \
 put '$fr_sort = tolower($fr_mot)' then \
 sort -f fr_sort then \
-cut -x -f level,added,lsf_video_tmp,lsf_video_key,fr_sort then \
-reorder -f fr_mot,fr_desc,lsf_video,lsf_desc,fss,elix,tags \
+cut -x -f level,added,lsf_video_tmp,lsf_video_key,lsf_signwriting_tmp,lsf_signwriting_key,fr_sort then \
+reorder -f fr_mot,fr_desc,lsf_video,lsf_signwriting,lsf_desc,url_fss,url_other,tags \
 list-signs/sources/*.csv > "LSF - Signes (sorted).csv"
 
 # Remove header.
