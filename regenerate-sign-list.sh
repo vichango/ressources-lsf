@@ -14,6 +14,7 @@ put '$lsf_video = "FALSE" == $lsf_video_key ? "" : ("[sound:" . $lsf_video_key .
 put '$tags = "LSF I" == $level ? ("lsf-1 " . $tags) : $tags' then \
 put '$tags = "LSF II" == $level ? ("lsf-2 " . $tags) : $tags' then \
 put '$tags = "LSF III" == $level ? ("lsf-3 " . $tags) : $tags' then \
+put '$tags = "LSF IV" == $level ? ("lsf-4 " . $tags) : $tags' then \
 put '$tags = "FALSE" == $lsf_video_key && "" == $fss && "" == $elix ? ("[manquant] " . $tags) : $tags' then \
 put '$fr_sort = tolower($fr_mot)' then \
 sort -f fr_sort then \
