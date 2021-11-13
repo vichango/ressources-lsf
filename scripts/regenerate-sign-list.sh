@@ -22,7 +22,7 @@ put '$fr_sort = tolower($fr_mot)' then \
 sort -f fr_sort then \
 cut -x -f level,added,lsf_video_tmp,lsf_video_key,lsf_signwriting_tmp,lsf_signwriting_key,fr_sort then \
 reorder -f fr_mot,fr_desc,lsf_video,lsf_signwriting,lsf_desc,url_fss,url_other,tags \
-list-signs/sources/*.csv > "LSF - Signes (sorted).csv"
+../list-signs/sources/*.csv > "LSF - Signes (sorted).csv"
 
 # Remove header.
 sed '1d' "LSF - Signes (sorted).csv" > "LSF - Signes.csv"
@@ -30,6 +30,6 @@ sed '1d' "LSF - Signes (sorted).csv" > "LSF - Signes.csv"
 # Remove temporary files.
 rm "LSF - Signes (sorted).csv"
 
-mv "LSF - Signes.csv" list-signs/
+mv "LSF - Signes.csv" ../list-signs/
 
 echo -e "Terminé!"
