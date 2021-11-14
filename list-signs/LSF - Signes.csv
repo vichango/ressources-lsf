@@ -165,7 +165,7 @@ aussi,,[sound:aussi.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/aussi/,,ls
 Australie,Pays.,[sound:Australie.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/australie/,,lsf-2 lieu
 auteur-e,,[sound:auteur-e.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/auteur/,,lsf-3 
 automne,,[sound:automne.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/automne/,,lsf-1 nature calendrier
-autonome,,[sound:autonome.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/autonome/,,lsf-2 adjectif
+autonome,,[sound:autonome.mp4],"<img src=""autonome.png"">","En cours, comme [ neutre ] mais avec plus d'énergie",https://signsuisse.sgb-fss.ch/fr/lexikon/g/autonome/,https://www.pisourd.ch/index.php?theme=dicocomplet&id=191409,lsf-2 adjectif
 autoroute,,[sound:autoroute.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/autoroute/,,lsf-2 
 autre,,[sound:autre.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/autre/,,lsf-1 pronom
 Autriche,,[sound:Autriche.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/autriche/,,lsf-1 lieu
@@ -872,7 +872,7 @@ hot dog,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/hot-dog/,,lsf-2 nourritur
 huile,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/huile/,,lsf-2 nourriture
 humide,,[sound:humide.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/humide/,,lsf-1 adjectif
 huître,,[sound:huître.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/huitre/,,lsf-3 animal
-hygiène,,,"<img src=""hygiène.png"">",,,,lsf-4 
+hygiène,,,"<img src=""hygiène.png"">",,,http://www.pisourd.ch/index.php?theme=dicocomplet&id=620,lsf-4 
 hypocrite,,[sound:hypocrite.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/hypocrite/,,lsf-2 adjectif
 hélicoptère,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/helicoptere/,,lsf-2 transport
 hémisphère nord,,[sound:hémisphère nord.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/hemisphere-nord-de-la-terre/,,lsf-3 lieu
@@ -1367,7 +1367,7 @@ peur,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/peur/,,lsf-1 sentiment
 peut-être,,[sound:peut-être.mp4],,(en cours avec tous les doigts ouverts),https://signsuisse.sgb-fss.ch/fr/lexikon/g/peut-etre/,https://dico.elix-lsf.fr/dictionnaire/peut-être/adv.-198854,lsf-2 adverbe
 pharmacie,,,,,,,[manquant] lsf-2 lieu service
 Philippines,,[sound:Philippines.mp4],,(variante GE),https://signsuisse.sgb-fss.ch/fr/lexikon/g/philippines/,,lsf-3 lieu
-philosophie,,[sound:philosophie.mp4],,"En cours, configuration ""P""",https://signsuisse.sgb-fss.ch/fr/lexikon/g/philosophie-1/,,lsf-4 
+philosophie,,[sound:philosophie.mp4],"<img src=""philosophie.png"">","En cours, configuration ""P""",https://signsuisse.sgb-fss.ch/fr/lexikon/g/philosophie-1/,,lsf-4 
 phoque,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/phoque/,,lsf-2 animal
 photo,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/photo/,,lsf-4 
 photographier,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/photographier/,,lsf-4 verbe
@@ -1544,7 +1544,7 @@ reine,,[sound:reine.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/reine/,,ls
 relation,,[sound:relation.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/relation/,,lsf-2 
 religion,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/religion/,,lsf-4 
 rembourser,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rembourser/,,lsf-2 verbe verbe-dir
-remplacer,,[sound:remplacer.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/remplacer/,,lsf-2 verbe
+remplacer,,[sound:remplacer.mp4],"<img src=""remplacer.png"">",,https://signsuisse.sgb-fss.ch/fr/lexikon/g/remplacer/,,lsf-2 verbe
 renard,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/renard/,,lsf-2 animal
 rencontrer,,[sound:rencontrer.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rencontrer/,,lsf-1 verbe
 rendez-vous,,[sound:rendez-vous.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/rendez-vous/,,lsf-3 
@@ -2011,7 +2011,7 @@ zèbre,,[sound:zèbre.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/zebre/,,
 égoïste,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/egoiste/,,lsf-1 adjectif
 élevage,,,"<img src=""élevage.png"">",,https://signsuisse.sgb-fss.ch/fr/lexikon/g/elevage/,,lsf-4 
 élève,,[sound:élève.mp4],,(variante GE),https://signsuisse.sgb-fss.ch/fr/lexikon/g/eleve/,,lsf-2 
-éléctricité,,[sound:éléctricité.mp4],,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/electricite/,,lsf-2 
+éléctricité,,[sound:éléctricité.mp4],"<img src=""éléctricité.png"">",,https://signsuisse.sgb-fss.ch/fr/lexikon/g/electricite/,,lsf-2 
 éléphant,,,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/elephant/,,lsf-1 animal
 émission,"Programme, télé, radio.",,,,https://signsuisse.sgb-fss.ch/fr/lexikon/g/emission/,,lsf-4 
 émotif - émotive,,[sound:émotion.mp4],,(homosigne de «émotion»),,,lsf-2 adjectif
