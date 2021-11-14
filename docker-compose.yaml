@@ -1,8 +1,0 @@
-version: '3.8'
-services:
-    main:
-        build: .
-        volumes:
-            - ./scripts:/home/lsf/scripts
-            - ./list-signs:/home/lsf/list-signs
-            - ./videos:/home/lsf/videos

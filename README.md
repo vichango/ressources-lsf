@@ -7,9 +7,17 @@ The goal of this project is to help generating the Anki deck I'm using to learn 
 ### With Docker
 
 ```sh
-docker-compose up --build --no-start --detach
-docker-compose run --rm main regenerate-sign-list.sh
+# Build image.
+docker build -t lsf-code:local .
+
+# Show help.
+docker run --rm lsf-code:local
 ````
+
+Follow the help of use the provided scripts to launch the available functionalities:
+
+- `helper-sign-list.sh`
+- `helper-video.sh`
 
 ## The data
 
